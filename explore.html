@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Explore Colleges | EduGuide Pro</title>
+  <meta name="description" content="Search, filter, and compare college recommendations by city, course, type, eligibility, placements, and ratings.">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body data-page="explore">
+  <header class="site-header">
+    <a class="brand" href="./index.html" aria-label="EduGuide Pro home">
+      <span class="brand-mark">E</span>
+      <span>EduGuide Pro</span>
+    </a>
+    <nav class="top-nav" aria-label="Primary navigation">
+      <a href="./explore.html" aria-current="page">Explore</a>
+      <a href="./index.html">Home</a>
+    </nav>
+  </header>
+
+  <main class="app-shell">
+    <section class="page-heading">
+      <p class="eyebrow">Recommendation engine</p>
+      <h1>Explore colleges by eligibility, course, city, and placement strength.</h1>
+    </section>
+
+    <section class="filter-panel" aria-label="College filters">
+      <label>
+        <span>Search</span>
+        <input id="searchInput" type="search" placeholder="College, course, city, or keyword">
+      </label>
+
+      <label>
+        <span>City</span>
+        <select id="cityFilter">
+          <option value="">All cities</option>
+        </select>
+      </label>
+
+      <label>
+        <span>Course</span>
+        <select id="courseFilter">
+          <option value="">All courses</option>
+        </select>
+      </label>
+
+      <label>
+        <span>College type</span>
+        <select id="typeFilter">
+          <option value="">All types</option>
+        </select>
+      </label>
+
+      <label>
+        <span>12th percentage</span>
+        <input id="percentageInput" type="text" inputmode="decimal" pattern="[0-9]*[.]?[0-9]*" placeholder="e.g. 78">
+      </label>
+
+      <button id="resetFilters" class="btn secondary" type="button">Reset</button>
+    </section>
+
+    <section class="result-toolbar" aria-live="polite">
+      <div>
+        <strong id="resultCount">Loading colleges...</strong>
+        <span id="resultHint">Eligible colleges appear first after percentage is entered.</span>
+      </div>
+      <button id="compareTop" class="btn compact" type="button">Top Matches</button>
+    </section>
+
+    <section id="collegeGrid" class="college-grid" aria-label="College recommendations"></section>
+
+    <div id="emptyState" class="empty-state" hidden>
+      <h2>No colleges matched.</h2>
+      <p>Try a broader course, city, or percentage range.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <span>EduGuide Pro</span>
+    <span>Recommendations are calculated in your browser.</span>
+  </footer>
+
+  <script src="./script.js"></script>
+</body>
+</html>

@@ -1,0 +1,4034 @@
+[
+  {
+    "id": 1,
+    "name": "Panjab University",
+    "city": "Chandigarh",
+    "location": "Sector 14",
+    "type": "Public University",
+    "rating": "4.6",
+    "student_review_score": "4.4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gandhi_Bhawan%2C_Panjab_University%2C_Chandigarh.jpg",
+    "website": "https://puchd.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Panjab%20University%20Sector%2014%20Chandigarh",
+    "description": "Panjab University serves students around Chandigarh from its Sector 14 location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "82%",
+    "avg_package": "INR 7.4 LPA",
+    "highest_package": "INR 32 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,00,000",
+        "total_fee": "INR 8.00 lakh",
+        "eligibility": "12th with minimum 62% with Physics and Mathematics",
+        "placement_rate": "86%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 69,000",
+        "total_fee": "INR 4.14 lakh",
+        "eligibility": "12th with minimum 58% from any recognized board",
+        "placement_rate": "77%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 72,000",
+        "total_fee": "INR 4.32 lakh",
+        "eligibility": "12th with minimum 58% with Mathematics or Computer Science",
+        "placement_rate": "81%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Aarav",
+        "rating": "4.5",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Simran",
+        "rating": "4.2",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "University Institute of Engineering and Technology, Panjab University",
+    "city": "Chandigarh",
+    "location": "Sector 25",
+    "type": "Government Engineering Institute",
+    "rating": "4.5",
+    "student_review_score": "4.3",
+    "image": "https://uiet.puchd.ac.in/images/slides/1.jpg",
+    "website": "https://uiet.puchd.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=University%20Institute%20of%20Engineering%20and%20Technology%2C%20Panjab%20University%20Sector%2025%20Chandigarh",
+    "description": "University Institute of Engineering and Technology, Panjab University serves students around Chandigarh from its Sector 25 location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "86%",
+    "avg_package": "INR 8.1 LPA",
+    "highest_package": "INR 45 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,10,000",
+        "total_fee": "INR 8.80 lakh",
+        "eligibility": "12th with minimum 64% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "91%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 1,01,000",
+        "total_fee": "INR 8.08 lakh",
+        "eligibility": "12th with minimum 62% with Physics and Mathematics",
+        "placement_rate": "87%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 92,000",
+        "total_fee": "INR 7.36 lakh",
+        "eligibility": "12th with minimum 62% with Physics and Mathematics",
+        "placement_rate": "82%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Mehak",
+        "rating": "4.4",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Arjun",
+        "rating": "4.1",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Punjab Engineering College",
+    "city": "Chandigarh",
+    "location": "Sector 12",
+    "type": "Deemed Technical University",
+    "rating": "4.7",
+    "student_review_score": "4.6",
+    "image": "https://pec.ac.in/sites/default/files/inline-images/PEC%20campus.jpg",
+    "website": "https://pec.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Punjab%20Engineering%20College%20Sector%2012%20Chandigarh",
+    "description": "Punjab Engineering College serves students around Chandigarh from its Sector 12 location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "90%",
+    "avg_package": "INR 11.2 LPA",
+    "highest_package": "INR 83 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,36,000",
+        "total_fee": "INR 10.88 lakh",
+        "eligibility": "12th with minimum 70% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "95%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 1,27,000",
+        "total_fee": "INR 10.16 lakh",
+        "eligibility": "12th with minimum 68% with Physics and Mathematics",
+        "placement_rate": "91%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,18,000",
+        "total_fee": "INR 9.44 lakh",
+        "eligibility": "12th with minimum 68% with Physics and Mathematics",
+        "placement_rate": "86%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Kabir",
+        "rating": "4.7",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Naina",
+        "rating": "4.4",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chandigarh College of Engineering and Technology",
+    "city": "Chandigarh",
+    "location": "Sector 26",
+    "type": "Government Engineering College",
+    "rating": "4.2",
+    "student_review_score": "4.0",
+    "image": "https://www.ccet.ac.in/images/slider/1.jpg",
+    "website": "https://www.ccet.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Chandigarh%20College%20of%20Engineering%20and%20Technology%20Sector%2026%20Chandigarh",
+    "description": "Chandigarh College of Engineering and Technology serves students around Chandigarh from its Sector 26 location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "77%",
+    "avg_package": "INR 5.8 LPA",
+    "highest_package": "INR 22 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 83,000",
+        "total_fee": "INR 6.64 lakh",
+        "eligibility": "12th with minimum 57% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "82%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 74,000",
+        "total_fee": "INR 5.92 lakh",
+        "eligibility": "12th with minimum 55% with Physics and Mathematics",
+        "placement_rate": "78%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 65,000",
+        "total_fee": "INR 5.20 lakh",
+        "eligibility": "12th with minimum 55% with Physics and Mathematics",
+        "placement_rate": "73%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ishita",
+        "rating": "4.1",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Dev",
+        "rating": "3.8",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chandigarh College of Architecture",
+    "city": "Chandigarh",
+    "location": "Sector 12",
+    "type": "Government Professional College",
+    "rating": "4.3",
+    "student_review_score": "4.1",
+    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://chandigarh.gov.in/chandigarh-college-of-architecture",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Chandigarh%20College%20of%20Architecture%20Sector%2012%20Chandigarh",
+    "description": "Chandigarh College of Architecture serves students around Chandigarh from its Sector 12 location. It offers studio-based design learning, planning exposure, model making, portfolio work, and professional mentoring.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "69%",
+    "avg_package": "INR 5.1 LPA",
+    "highest_package": "INR 16 LPA",
+    "courses": [
+      {
+        "course_name": "B.Arch",
+        "duration": "5 years",
+        "semester_fee": "INR 87,000",
+        "total_fee": "INR 8.70 lakh",
+        "eligibility": "12th with minimum 63% with Mathematics and valid architecture aptitude score",
+        "placement_rate": "71%"
+      },
+      {
+        "course_name": "B.Des Interior Design",
+        "duration": "4 years",
+        "semester_fee": "INR 80,000",
+        "total_fee": "INR 6.40 lakh",
+        "eligibility": "12th with minimum 58% from any recognized board",
+        "placement_rate": "67%"
+      },
+      {
+        "course_name": "Bachelor of Planning",
+        "duration": "4 years",
+        "semester_fee": "INR 72,000",
+        "total_fee": "INR 5.76 lakh",
+        "eligibility": "12th with minimum 58% with Mathematics preferred",
+        "placement_rate": "65%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Rohan",
+        "rating": "4.2",
+        "comment": "Studio culture is intense but rewarding, and juries improve presentation skills."
+      },
+      {
+        "student": "Ananya",
+        "rating": "3.9",
+        "comment": "The college location helps with exposure to architecture offices and planning projects."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "DAV College Chandigarh",
+    "city": "Chandigarh",
+    "location": "Sector 10",
+    "type": "Private Aided College",
+    "rating": "4.1",
+    "student_review_score": "4.0",
+    "image": "https://www.davchd.ac.in/images/slides/slide1.jpg",
+    "website": "https://www.davchd.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=DAV%20College%20Chandigarh%20Sector%2010%20Chandigarh",
+    "description": "DAV College Chandigarh serves students around Chandigarh from its Sector 10 location. It balances classroom learning, lab exposure, commerce pathways, and entry-level placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "62%",
+    "avg_package": "INR 4.2 LPA",
+    "highest_package": "INR 12 LPA",
+    "courses": [
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 42,000",
+        "total_fee": "INR 2.52 lakh",
+        "eligibility": "12th with minimum 50% from commerce or equivalent stream",
+        "placement_rate": "60%"
+      },
+      {
+        "course_name": "B.Sc Non Medical",
+        "duration": "3 years",
+        "semester_fee": "INR 45,000",
+        "total_fee": "INR 2.70 lakh",
+        "eligibility": "12th with minimum 52% with Physics, Chemistry, and Mathematics",
+        "placement_rate": "59%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 51,000",
+        "total_fee": "INR 3.06 lakh",
+        "eligibility": "12th with minimum 53% with Mathematics or Computer Science preferred",
+        "placement_rate": "66%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Simran",
+        "rating": "4.1",
+        "comment": "Academics are balanced with practical labs and cultural activities."
+      },
+      {
+        "student": "Karan",
+        "rating": "3.8",
+        "comment": "BCA and commerce students get decent placement support for the region."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Goswami Ganesh Dutta Sanatan Dharma College",
+    "city": "Chandigarh",
+    "location": "Sector 32",
+    "type": "Private Aided College",
+    "rating": "4.4",
+    "student_review_score": "4.2",
+    "image": "https://ggdsd.ac.in/wp-content/uploads/2022/09/campus.jpg",
+    "website": "https://ggdsd.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Goswami%20Ganesh%20Dutta%20Sanatan%20Dharma%20College%20Sector%2032%20Chandigarh",
+    "description": "Goswami Ganesh Dutta Sanatan Dharma College serves students around Chandigarh from its Sector 32 location. It is popular for commerce, management, and IT programs with internships, societies, and practical projects.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "72%",
+    "avg_package": "INR 5.6 LPA",
+    "highest_package": "INR 18 LPA",
+    "courses": [
+      {
+        "course_name": "B.Com Honours",
+        "duration": "3 years",
+        "semester_fee": "INR 60,000",
+        "total_fee": "INR 3.60 lakh",
+        "eligibility": "12th with minimum 58% from commerce or equivalent stream",
+        "placement_rate": "72%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 64,000",
+        "total_fee": "INR 3.84 lakh",
+        "eligibility": "12th with minimum 59% with Mathematics or Computer Science preferred",
+        "placement_rate": "77%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 58,000",
+        "total_fee": "INR 3.48 lakh",
+        "eligibility": "12th with minimum 55% from any recognized board",
+        "placement_rate": "69%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Arjun",
+        "rating": "4.3",
+        "comment": "Coding culture is visible in BCA batches and commerce placements are improving."
+      },
+      {
+        "student": "Tanya",
+        "rating": "4.0",
+        "comment": "Campus life is lively and the placement cell is serious about internships."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "MCM DAV College for Women",
+    "city": "Chandigarh",
+    "location": "Sector 36",
+    "type": "Private Aided College",
+    "rating": "4.2",
+    "student_review_score": "4.1",
+    "image": "https://mcmdavcwchd.edu.in/wp-content/uploads/2023/01/college.jpg",
+    "website": "https://mcmdavcwchd.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=MCM%20DAV%20College%20for%20Women%20Sector%2036%20Chandigarh",
+    "description": "MCM DAV College for Women serves students around Chandigarh from its Sector 36 location. It offers a supportive academic environment for arts, science, BCA, campus activities, and postgraduate plans.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "64%",
+    "avg_package": "INR 4.8 LPA",
+    "highest_package": "INR 14 LPA",
+    "courses": [
+      {
+        "course_name": "B.A.",
+        "duration": "3 years",
+        "semester_fee": "INR 37,000",
+        "total_fee": "INR 2.22 lakh",
+        "eligibility": "12th with minimum 46% from any recognized board",
+        "placement_rate": "57%"
+      },
+      {
+        "course_name": "B.Sc Medical",
+        "duration": "3 years",
+        "semester_fee": "INR 48,000",
+        "total_fee": "INR 2.88 lakh",
+        "eligibility": "12th with minimum 53% with Biology and Chemistry",
+        "placement_rate": "62%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 54,000",
+        "total_fee": "INR 3.24 lakh",
+        "eligibility": "12th with minimum 54% with Mathematics or Computer Science preferred",
+        "placement_rate": "68%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Naina",
+        "rating": "4.2",
+        "comment": "The environment is safe, supportive, and good for students preparing for higher studies."
+      },
+      {
+        "student": "Aarav",
+        "rating": "3.9",
+        "comment": "Faculty mentoring is consistent and labs are maintained well for regular practicals."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Post Graduate Government College Sector 11",
+    "city": "Chandigarh",
+    "location": "Sector 11",
+    "type": "Government College",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.gc11.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Post%20Graduate%20Government%20College%20Sector%2011%20Sector%2011%20Chandigarh",
+    "description": "Post Graduate Government College Sector 11 serves students around Chandigarh from its Sector 11 location. It is a dependable option for arts, commerce, BCA, societies, value-conscious fees, and higher-study preparation.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "58%",
+    "avg_package": "INR 3.8 LPA",
+    "highest_package": "INR 10 LPA",
+    "courses": [
+      {
+        "course_name": "B.A.",
+        "duration": "3 years",
+        "semester_fee": "INR 21,000",
+        "total_fee": "INR 1.26 lakh",
+        "eligibility": "12th with minimum 40% from any recognized board",
+        "placement_rate": "50%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 28,000",
+        "total_fee": "INR 1.68 lakh",
+        "eligibility": "12th with minimum 45% from commerce or equivalent stream",
+        "placement_rate": "56%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 36,000",
+        "total_fee": "INR 2.16 lakh",
+        "eligibility": "12th with minimum 48% with Mathematics or Computer Science preferred",
+        "placement_rate": "61%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Dev",
+        "rating": "4.0",
+        "comment": "Faculty is approachable and societies make campus life active throughout the year."
+      },
+      {
+        "student": "Mehak",
+        "rating": "3.7",
+        "comment": "The fee structure is reasonable and commerce students get useful internship guidance."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Post Graduate Government College for Girls Sector 11",
+    "city": "Chandigarh",
+    "location": "Sector 11",
+    "type": "Government College",
+    "rating": "4.1",
+    "student_review_score": "4.0",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.gcg11.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Post%20Graduate%20Government%20College%20for%20Girls%20Sector%2011%20Sector%2011%20Chandigarh",
+    "description": "Post Graduate Government College for Girls Sector 11 serves students around Chandigarh from its Sector 11 location. It offers a supportive academic environment for arts, science, BCA, campus activities, and postgraduate plans.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "57%",
+    "avg_package": "INR 3.9 LPA",
+    "highest_package": "INR 9 LPA",
+    "courses": [
+      {
+        "course_name": "B.A.",
+        "duration": "3 years",
+        "semester_fee": "INR 21,000",
+        "total_fee": "INR 1.26 lakh",
+        "eligibility": "12th with minimum 41% from any recognized board",
+        "placement_rate": "50%"
+      },
+      {
+        "course_name": "B.Sc Medical",
+        "duration": "3 years",
+        "semester_fee": "INR 32,000",
+        "total_fee": "INR 1.92 lakh",
+        "eligibility": "12th with minimum 48% with Biology and Chemistry",
+        "placement_rate": "55%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 38,000",
+        "total_fee": "INR 2.28 lakh",
+        "eligibility": "12th with minimum 49% with Mathematics or Computer Science preferred",
+        "placement_rate": "61%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ananya",
+        "rating": "4.1",
+        "comment": "The environment is safe, supportive, and good for students preparing for higher studies."
+      },
+      {
+        "student": "Kabir",
+        "rating": "3.8",
+        "comment": "Faculty mentoring is consistent and labs are maintained well for regular practicals."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Government Home Science College",
+    "city": "Chandigarh",
+    "location": "Sector 10",
+    "type": "Government College",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.homescience10.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Government%20Home%20Science%20College%20Sector%2010%20Chandigarh",
+    "description": "Government Home Science College serves students around Chandigarh from its Sector 10 location. It is suited for students interested in nutrition, home science, human development, research, and applied lab work.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "55%",
+    "avg_package": "INR 3.6 LPA",
+    "highest_package": "INR 8 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Home Science",
+        "duration": "3 years",
+        "semester_fee": "INR 33,000",
+        "total_fee": "INR 1.98 lakh",
+        "eligibility": "12th with minimum 48% from any recognized board",
+        "placement_rate": "53%"
+      },
+      {
+        "course_name": "B.Sc Nutrition and Dietetics",
+        "duration": "3 years",
+        "semester_fee": "INR 40,000",
+        "total_fee": "INR 2.40 lakh",
+        "eligibility": "12th with minimum 50% with Science preferred",
+        "placement_rate": "58%"
+      },
+      {
+        "course_name": "M.Sc Human Development",
+        "duration": "2 years",
+        "semester_fee": "INR 44,000",
+        "total_fee": "INR 1.76 lakh",
+        "eligibility": "12th with minimum 53% or graduation with relevant specialization",
+        "placement_rate": "56%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Karan",
+        "rating": "4.0",
+        "comment": "Nutrition labs and field work make the course feel career-oriented."
+      },
+      {
+        "student": "Ishita",
+        "rating": "3.7",
+        "comment": "Hostel life is disciplined and faculty members are helpful with projects."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dr Ambedkar Institute of Hotel Management",
+    "city": "Chandigarh",
+    "location": "Sector 42",
+    "type": "Government Hotel Management Institute",
+    "rating": "4.3",
+    "student_review_score": "4.2",
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://ihmchandigarh.org/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Dr%20Ambedkar%20Institute%20of%20Hotel%20Management%20Sector%2042%20Chandigarh",
+    "description": "Dr Ambedkar Institute of Hotel Management serves students around Chandigarh from its Sector 42 location. It emphasizes kitchen labs, service training, internships, and placements across hospitality and tourism brands.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "78%",
+    "avg_package": "INR 4.9 LPA",
+    "highest_package": "INR 13 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Hospitality and Hotel Administration",
+        "duration": "3 years",
+        "semester_fee": "INR 74,000",
+        "total_fee": "INR 4.44 lakh",
+        "eligibility": "12th with minimum 50% from any recognized board with English",
+        "placement_rate": "82%"
+      },
+      {
+        "course_name": "Diploma Food Production",
+        "duration": "1.5 years",
+        "semester_fee": "INR 52,000",
+        "total_fee": "INR 1.56 lakh",
+        "eligibility": "12th with minimum 45% from any recognized board",
+        "placement_rate": "78%"
+      },
+      {
+        "course_name": "BBA Hospitality Management",
+        "duration": "3 years",
+        "semester_fee": "INR 68,000",
+        "total_fee": "INR 4.08 lakh",
+        "eligibility": "12th with minimum 50% from any recognized board",
+        "placement_rate": "76%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Tanya",
+        "rating": "4.3",
+        "comment": "Kitchen labs and hotel exposure make the training very practical."
+      },
+      {
+        "student": "Rohan",
+        "rating": "4.0",
+        "comment": "Placements in hospitality chains are consistent for students with good communication skills."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "National Institute of Fashion Technology Panchkula",
+    "city": "Panchkula",
+    "location": "Sector 23",
+    "type": "National Design Institute",
+    "rating": "4.5",
+    "student_review_score": "4.4",
+    "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.nift.ac.in/panchkula/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=National%20Institute%20of%20Fashion%20Technology%20Panchkula%20Sector%2023%20Panchkula",
+    "description": "National Institute of Fashion Technology Panchkula serves students around Panchkula from its Sector 23 location. It focuses on design portfolios, fashion studios, communication, merchandising, and industry-facing projects.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "76%",
+    "avg_package": "INR 6.2 LPA",
+    "highest_package": "INR 18 LPA",
+    "courses": [
+      {
+        "course_name": "B.Des Fashion Design",
+        "duration": "4 years",
+        "semester_fee": "INR 1,47,000",
+        "total_fee": "INR 11.76 lakh",
+        "eligibility": "12th with minimum 57% from any recognized board with design aptitude",
+        "placement_rate": "79%"
+      },
+      {
+        "course_name": "B.Des Fashion Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 1,43,000",
+        "total_fee": "INR 11.44 lakh",
+        "eligibility": "12th with minimum 55% from any recognized board",
+        "placement_rate": "76%"
+      },
+      {
+        "course_name": "B.F.Tech Apparel Production",
+        "duration": "4 years",
+        "semester_fee": "INR 1,41,000",
+        "total_fee": "INR 11.28 lakh",
+        "eligibility": "12th with minimum 55% with Mathematics or relevant technical aptitude",
+        "placement_rate": "74%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Aarav",
+        "rating": "4.5",
+        "comment": "Portfolio mentoring is strong and design labs stay active during jury season."
+      },
+      {
+        "student": "Simran",
+        "rating": "4.2",
+        "comment": "The institute gives good exposure to fashion shows, craft clusters, and internships."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Government Post Graduate College Panchkula",
+    "city": "Panchkula",
+    "location": "Sector 1",
+    "type": "Government College",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://highereduhry.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Government%20Post%20Graduate%20College%20Panchkula%20Sector%201%20Panchkula",
+    "description": "Government Post Graduate College Panchkula serves students around Panchkula from its Sector 1 location. It is a dependable option for arts, commerce, BCA, societies, value-conscious fees, and higher-study preparation.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "54%",
+    "avg_package": "INR 3.4 LPA",
+    "highest_package": "INR 8 LPA",
+    "courses": [
+      {
+        "course_name": "B.A.",
+        "duration": "3 years",
+        "semester_fee": "INR 19,000",
+        "total_fee": "INR 1.14 lakh",
+        "eligibility": "12th with minimum 40% from any recognized board",
+        "placement_rate": "46%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 26,000",
+        "total_fee": "INR 1.56 lakh",
+        "eligibility": "12th with minimum 45% from commerce or equivalent stream",
+        "placement_rate": "52%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 34,000",
+        "total_fee": "INR 2.04 lakh",
+        "eligibility": "12th with minimum 48% with Mathematics or Computer Science preferred",
+        "placement_rate": "57%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Mehak",
+        "rating": "3.9",
+        "comment": "Faculty is approachable and societies make campus life active throughout the year."
+      },
+      {
+        "student": "Arjun",
+        "rating": "3.6",
+        "comment": "The fee structure is reasonable and commerce students get useful internship guidance."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Government College for Girls Panchkula",
+    "city": "Panchkula",
+    "location": "Sector 14",
+    "type": "Government College",
+    "rating": "3.8",
+    "student_review_score": "3.7",
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://highereduhry.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Government%20College%20for%20Girls%20Panchkula%20Sector%2014%20Panchkula",
+    "description": "Government College for Girls Panchkula serves students around Panchkula from its Sector 14 location. It offers a supportive academic environment for arts, science, BCA, campus activities, and postgraduate plans.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "51%",
+    "avg_package": "INR 3.2 LPA",
+    "highest_package": "INR 7 LPA",
+    "courses": [
+      {
+        "course_name": "B.A.",
+        "duration": "3 years",
+        "semester_fee": "INR 19,000",
+        "total_fee": "INR 1.14 lakh",
+        "eligibility": "12th with minimum 41% from any recognized board",
+        "placement_rate": "44%"
+      },
+      {
+        "course_name": "B.Sc Medical",
+        "duration": "3 years",
+        "semester_fee": "INR 30,000",
+        "total_fee": "INR 1.80 lakh",
+        "eligibility": "12th with minimum 48% with Biology and Chemistry",
+        "placement_rate": "49%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 36,000",
+        "total_fee": "INR 2.16 lakh",
+        "eligibility": "12th with minimum 49% with Mathematics or Computer Science preferred",
+        "placement_rate": "55%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Kabir",
+        "rating": "3.8",
+        "comment": "The environment is safe, supportive, and good for students preparing for higher studies."
+      },
+      {
+        "student": "Naina",
+        "rating": "3.5",
+        "comment": "Faculty mentoring is consistent and labs are maintained well for regular practicals."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Swami Devi Dyal Institute of Engineering and Technology",
+    "city": "Panchkula",
+    "location": "Barwala",
+    "type": "Private Engineering College",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.sddgpi.com/engineering",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Swami%20Devi%20Dyal%20Institute%20of%20Engineering%20and%20Technology%20Barwala%20Panchkula",
+    "description": "Swami Devi Dyal Institute of Engineering and Technology serves students around Panchkula from its Barwala location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "68%",
+    "avg_package": "INR 4.7 LPA",
+    "highest_package": "INR 16 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 96,000",
+        "total_fee": "INR 7.68 lakh",
+        "eligibility": "12th with minimum 52% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "73%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 87,000",
+        "total_fee": "INR 6.96 lakh",
+        "eligibility": "12th with minimum 50% with Physics and Mathematics",
+        "placement_rate": "69%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 78,000",
+        "total_fee": "INR 6.24 lakh",
+        "eligibility": "12th with minimum 50% with Physics and Mathematics",
+        "placement_rate": "64%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ishita",
+        "rating": "4.0",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Dev",
+        "rating": "3.7",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Swami Devi Dyal College of Pharmacy",
+    "city": "Panchkula",
+    "location": "Barwala",
+    "type": "Private Pharmacy College",
+    "rating": "4.1",
+    "student_review_score": "4.0",
+    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.sddgpi.com/pharmacy",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Swami%20Devi%20Dyal%20College%20of%20Pharmacy%20Barwala%20Panchkula",
+    "description": "Swami Devi Dyal College of Pharmacy serves students around Panchkula from its Barwala location. It supports pharmacy students through labs, industrial visits, regulatory awareness, and healthcare placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "72%",
+    "avg_package": "INR 4.5 LPA",
+    "highest_package": "INR 12 LPA",
+    "courses": [
+      {
+        "course_name": "B.Pharm",
+        "duration": "4 years",
+        "semester_fee": "INR 91,000",
+        "total_fee": "INR 7.28 lakh",
+        "eligibility": "12th with minimum 55% with Physics, Chemistry, and Biology or Mathematics",
+        "placement_rate": "74%"
+      },
+      {
+        "course_name": "D.Pharm",
+        "duration": "2 years",
+        "semester_fee": "INR 68,000",
+        "total_fee": "INR 2.72 lakh",
+        "eligibility": "12th with minimum 52% with Physics and Chemistry",
+        "placement_rate": "70%"
+      },
+      {
+        "course_name": "M.Pharm Pharmaceutics",
+        "duration": "2 years",
+        "semester_fee": "INR 1,00,000",
+        "total_fee": "INR 4.00 lakh",
+        "eligibility": "12th with minimum 60% or B.Pharm with qualifying score",
+        "placement_rate": "76%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Rohan",
+        "rating": "4.1",
+        "comment": "Pharma labs are well structured and industrial visits help understand production roles."
+      },
+      {
+        "student": "Ananya",
+        "rating": "3.8",
+        "comment": "Faculty pushes students toward GPAT preparation and internships."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Swami Devi Dyal Hospital and Dental College",
+    "city": "Panchkula",
+    "location": "Barwala",
+    "type": "Private Dental College",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.sddgpi.com/dental-scienes",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Swami%20Devi%20Dyal%20Hospital%20and%20Dental%20College%20Barwala%20Panchkula",
+    "description": "Swami Devi Dyal Hospital and Dental College serves students around Panchkula from its Barwala location. It combines classroom learning with clinical practice, patient exposure, and healthcare internship readiness.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "70%",
+    "avg_package": "INR 5.4 LPA",
+    "highest_package": "INR 14 LPA",
+    "courses": [
+      {
+        "course_name": "BDS",
+        "duration": "5 years",
+        "semester_fee": "INR 2,30,000",
+        "total_fee": "INR 23.00 lakh",
+        "eligibility": "12th with minimum 63% with Physics, Chemistry, Biology, and qualifying entrance score",
+        "placement_rate": "72%"
+      },
+      {
+        "course_name": "MDS Conservative Dentistry",
+        "duration": "3 years",
+        "semester_fee": "INR 2,75,000",
+        "total_fee": "INR 16.50 lakh",
+        "eligibility": "12th with minimum 67% or BDS with qualifying entrance score",
+        "placement_rate": "76%"
+      },
+      {
+        "course_name": "Dental Hygiene Diploma",
+        "duration": "2 years",
+        "semester_fee": "INR 1,45,000",
+        "total_fee": "INR 5.80 lakh",
+        "eligibility": "12th with minimum 55% with Biology preferred",
+        "placement_rate": "65%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Simran",
+        "rating": "4.0",
+        "comment": "Clinical postings are demanding and give steady patient exposure."
+      },
+      {
+        "student": "Karan",
+        "rating": "3.7",
+        "comment": "Hostel facilities are decent and departments are strict about practical discipline."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Swami Devi Dyal Law College",
+    "city": "Panchkula",
+    "location": "Barwala",
+    "type": "Private Law College",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1519452575417-564c1401ecc0?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.sddgpi.com/law",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Swami%20Devi%20Dyal%20Law%20College%20Barwala%20Panchkula",
+    "description": "Swami Devi Dyal Law College serves students around Panchkula from its Barwala location. It provides law students with moot courts, legal aid work, court visits, and internship guidance.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "56%",
+    "avg_package": "INR 3.8 LPA",
+    "highest_package": "INR 9 LPA",
+    "courses": [
+      {
+        "course_name": "BA LLB",
+        "duration": "5 years",
+        "semester_fee": "INR 74,000",
+        "total_fee": "INR 7.40 lakh",
+        "eligibility": "12th with minimum 50% from any recognized board",
+        "placement_rate": "56%"
+      },
+      {
+        "course_name": "BBA LLB",
+        "duration": "5 years",
+        "semester_fee": "INR 77,000",
+        "total_fee": "INR 7.70 lakh",
+        "eligibility": "12th with minimum 51% from any recognized board",
+        "placement_rate": "58%"
+      },
+      {
+        "course_name": "LLB",
+        "duration": "3 years",
+        "semester_fee": "INR 68,000",
+        "total_fee": "INR 4.08 lakh",
+        "eligibility": "12th with minimum 56% or graduation from a recognized university",
+        "placement_rate": "53%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Arjun",
+        "rating": "3.9",
+        "comment": "Moot court activities and legal aid camps make the course practical."
+      },
+      {
+        "student": "Tanya",
+        "rating": "3.6",
+        "comment": "Faculty guides internships well, especially for district court exposure."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Swami Devi Dyal College of Nursing",
+    "city": "Panchkula",
+    "location": "Barwala",
+    "type": "Private Nursing College",
+    "rating": "4.1",
+    "student_review_score": "4.0",
+    "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.sddgpi.com/nursing",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Swami%20Devi%20Dyal%20College%20of%20Nursing%20Barwala%20Panchkula",
+    "description": "Swami Devi Dyal College of Nursing serves students around Panchkula from its Barwala location. It is oriented toward clinical rotations, skill labs, patient care training, and healthcare employment readiness.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "74%",
+    "avg_package": "INR 4.2 LPA",
+    "highest_package": "INR 10 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Nursing",
+        "duration": "4 years",
+        "semester_fee": "INR 86,000",
+        "total_fee": "INR 6.88 lakh",
+        "eligibility": "12th with minimum 53% with Physics, Chemistry, Biology, and English",
+        "placement_rate": "77%"
+      },
+      {
+        "course_name": "GNM",
+        "duration": "3 years",
+        "semester_fee": "INR 68,000",
+        "total_fee": "INR 4.08 lakh",
+        "eligibility": "12th with minimum 50% with English and Science preferred",
+        "placement_rate": "73%"
+      },
+      {
+        "course_name": "Post Basic B.Sc Nursing",
+        "duration": "2 years",
+        "semester_fee": "INR 81,000",
+        "total_fee": "INR 3.24 lakh",
+        "eligibility": "12th with minimum 55% or GNM with registration",
+        "placement_rate": "76%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Naina",
+        "rating": "4.1",
+        "comment": "Clinical rotations are regular and the hostel environment is manageable."
+      },
+      {
+        "student": "Aarav",
+        "rating": "3.8",
+        "comment": "Teachers are strict but supportive, especially during practical exams."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Swami Devi Dyal Management Studies",
+    "city": "Panchkula",
+    "location": "Barwala",
+    "type": "Private Management School",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.sddgpi.com/management-studies",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Swami%20Devi%20Dyal%20Management%20Studies%20Barwala%20Panchkula",
+    "description": "Swami Devi Dyal Management Studies serves students around Panchkula from its Barwala location. It emphasizes management foundations, internships, case studies, presentations, and recruiter interactions.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "65%",
+    "avg_package": "INR 4.2 LPA",
+    "highest_package": "INR 12 LPA",
+    "courses": [
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 67,000",
+        "total_fee": "INR 4.02 lakh",
+        "eligibility": "12th with minimum 50% from any recognized board",
+        "placement_rate": "65%"
+      },
+      {
+        "course_name": "MBA",
+        "duration": "2 years",
+        "semester_fee": "INR 1,05,000",
+        "total_fee": "INR 4.20 lakh",
+        "eligibility": "12th with minimum 58% or graduation with qualifying aptitude score",
+        "placement_rate": "73%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 62,000",
+        "total_fee": "INR 3.72 lakh",
+        "eligibility": "12th with minimum 50% from commerce or equivalent stream",
+        "placement_rate": "62%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Dev",
+        "rating": "4.0",
+        "comment": "Case discussions and internships are useful for management placements."
+      },
+      {
+        "student": "Mehak",
+        "rating": "3.7",
+        "comment": "The campus has a professional environment and good industry sessions."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Government Polytechnic Panchkula",
+    "city": "Panchkula",
+    "location": "Sector 26",
+    "type": "Government Polytechnic",
+    "rating": "3.8",
+    "student_review_score": "3.7",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://hstes.org.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Government%20Polytechnic%20Panchkula%20Sector%2026%20Panchkula",
+    "description": "Government Polytechnic Panchkula serves students around Panchkula from its Sector 26 location. It focuses on employable diploma skills, workshops, practical labs, and local industry readiness.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "60%",
+    "avg_package": "INR 3.3 LPA",
+    "highest_package": "INR 8 LPA",
+    "courses": [
+      {
+        "course_name": "Diploma Computer Engineering",
+        "duration": "3 years",
+        "semester_fee": "INR 25,000",
+        "total_fee": "INR 1.50 lakh",
+        "eligibility": "12th with minimum 45% or 10th with Mathematics and Science",
+        "placement_rate": "63%"
+      },
+      {
+        "course_name": "Diploma Civil Engineering",
+        "duration": "3 years",
+        "semester_fee": "INR 19,000",
+        "total_fee": "INR 1.14 lakh",
+        "eligibility": "12th with minimum 43% or 10th with Mathematics and Science",
+        "placement_rate": "58%"
+      },
+      {
+        "course_name": "Diploma Mechanical Engineering",
+        "duration": "3 years",
+        "semester_fee": "INR 21,000",
+        "total_fee": "INR 1.26 lakh",
+        "eligibility": "12th with minimum 43% or 10th with Mathematics and Science",
+        "placement_rate": "59%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ananya",
+        "rating": "3.8",
+        "comment": "Workshop training is hands-on and the placement cell brings steady local recruiters."
+      },
+      {
+        "student": "Kabir",
+        "rating": "3.5",
+        "comment": "Faculty support is good for diploma projects and lateral-entry guidance."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Aryabhatt College of Nursing",
+    "city": "Panchkula",
+    "location": "Panchkula Extension",
+    "type": "Private Nursing College",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://abret.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Aryabhatt%20College%20of%20Nursing%20Panchkula%20Extension%20Panchkula",
+    "description": "Aryabhatt College of Nursing serves students around Panchkula from its Panchkula Extension location. It is oriented toward clinical rotations, skill labs, patient care training, and healthcare employment readiness.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "67%",
+    "avg_package": "INR 3.9 LPA",
+    "highest_package": "INR 9 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Nursing",
+        "duration": "4 years",
+        "semester_fee": "INR 79,000",
+        "total_fee": "INR 6.32 lakh",
+        "eligibility": "12th with minimum 51% with Physics, Chemistry, Biology, and English",
+        "placement_rate": "70%"
+      },
+      {
+        "course_name": "GNM",
+        "duration": "3 years",
+        "semester_fee": "INR 61,000",
+        "total_fee": "INR 3.66 lakh",
+        "eligibility": "12th with minimum 48% with English and Science preferred",
+        "placement_rate": "66%"
+      },
+      {
+        "course_name": "Post Basic B.Sc Nursing",
+        "duration": "2 years",
+        "semester_fee": "INR 74,000",
+        "total_fee": "INR 2.96 lakh",
+        "eligibility": "12th with minimum 53% or GNM with registration",
+        "placement_rate": "69%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Karan",
+        "rating": "3.9",
+        "comment": "Clinical rotations are regular and the hostel environment is manageable."
+      },
+      {
+        "student": "Ishita",
+        "rating": "3.6",
+        "comment": "Teachers are strict but supportive, especially during practical exams."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Alchemist Institute of Health Sciences",
+    "city": "Panchkula",
+    "location": "Sector 21",
+    "type": "Private Health Sciences Institute",
+    "rating": "3.8",
+    "student_review_score": "3.7",
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://alchemisthospitals.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Alchemist%20Institute%20of%20Health%20Sciences%20Sector%2021%20Panchkula",
+    "description": "Alchemist Institute of Health Sciences serves students around Panchkula from its Sector 21 location. It is oriented toward clinical rotations, skill labs, patient care training, and healthcare employment readiness.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "62%",
+    "avg_package": "INR 3.5 LPA",
+    "highest_package": "INR 8 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Nursing",
+        "duration": "4 years",
+        "semester_fee": "INR 76,000",
+        "total_fee": "INR 6.08 lakh",
+        "eligibility": "12th with minimum 51% with Physics, Chemistry, Biology, and English",
+        "placement_rate": "65%"
+      },
+      {
+        "course_name": "GNM",
+        "duration": "3 years",
+        "semester_fee": "INR 58,000",
+        "total_fee": "INR 3.48 lakh",
+        "eligibility": "12th with minimum 48% with English and Science preferred",
+        "placement_rate": "61%"
+      },
+      {
+        "course_name": "Post Basic B.Sc Nursing",
+        "duration": "2 years",
+        "semester_fee": "INR 71,000",
+        "total_fee": "INR 2.84 lakh",
+        "eligibility": "12th with minimum 53% or GNM with registration",
+        "placement_rate": "64%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Tanya",
+        "rating": "3.8",
+        "comment": "Clinical rotations are regular and the hostel environment is manageable."
+      },
+      {
+        "student": "Rohan",
+        "rating": "3.5",
+        "comment": "Teachers are strict but supportive, especially during practical exams."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Smt Aruna Asaf Ali Government Post Graduate College Kalka",
+    "city": "Kalka",
+    "location": "Kalka",
+    "type": "Government College",
+    "rating": "3.8",
+    "student_review_score": "3.7",
+    "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://highereduhry.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Smt%20Aruna%20Asaf%20Ali%20Government%20Post%20Graduate%20College%20Kalka%20Kalka%20Kalka",
+    "description": "Smt Aruna Asaf Ali Government Post Graduate College Kalka serves students around Kalka from its Kalka location. It is a dependable option for arts, commerce, BCA, societies, value-conscious fees, and higher-study preparation.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "50%",
+    "avg_package": "INR 3.1 LPA",
+    "highest_package": "INR 7 LPA",
+    "courses": [
+      {
+        "course_name": "B.A.",
+        "duration": "3 years",
+        "semester_fee": "INR 17,000",
+        "total_fee": "INR 1.02 lakh",
+        "eligibility": "12th with minimum 37% from any recognized board",
+        "placement_rate": "42%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 24,000",
+        "total_fee": "INR 1.44 lakh",
+        "eligibility": "12th with minimum 42% from commerce or equivalent stream",
+        "placement_rate": "48%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 32,000",
+        "total_fee": "INR 1.92 lakh",
+        "eligibility": "12th with minimum 45% with Mathematics or Computer Science preferred",
+        "placement_rate": "53%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Aarav",
+        "rating": "3.8",
+        "comment": "Faculty is approachable and societies make campus life active throughout the year."
+      },
+      {
+        "student": "Simran",
+        "rating": "3.5",
+        "comment": "The fee structure is reasonable and commerce students get useful internship guidance."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Government College Morni",
+    "city": "Kalka",
+    "location": "Kalka-Morni region",
+    "type": "Government College",
+    "rating": "3.6",
+    "student_review_score": "3.6",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://highereduhry.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Government%20College%20Morni%20Kalka-Morni%20region%20Kalka",
+    "description": "Government College Morni serves students around Kalka from its Kalka-Morni region location. It is a dependable option for arts, commerce, BCA, societies, value-conscious fees, and higher-study preparation.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "45%",
+    "avg_package": "INR 2.8 LPA",
+    "highest_package": "INR 6 LPA",
+    "courses": [
+      {
+        "course_name": "B.A.",
+        "duration": "3 years",
+        "semester_fee": "INR 15,000",
+        "total_fee": "INR 0.90 lakh",
+        "eligibility": "12th with minimum 35% from any recognized board",
+        "placement_rate": "37%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 22,000",
+        "total_fee": "INR 1.32 lakh",
+        "eligibility": "12th with minimum 40% from commerce or equivalent stream",
+        "placement_rate": "43%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 30,000",
+        "total_fee": "INR 1.80 lakh",
+        "eligibility": "12th with minimum 43% with Mathematics or Computer Science preferred",
+        "placement_rate": "48%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Mehak",
+        "rating": "3.7",
+        "comment": "Faculty is approachable and societies make campus life active throughout the year."
+      },
+      {
+        "student": "Arjun",
+        "rating": "3.5",
+        "comment": "The fee structure is reasonable and commerce students get useful internship guidance."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Government College Raipur Rani",
+    "city": "Kalka",
+    "location": "Kalka-Panchkula belt",
+    "type": "Government College",
+    "rating": "3.7",
+    "student_review_score": "3.6",
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://highereduhry.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Government%20College%20Raipur%20Rani%20Kalka-Panchkula%20belt%20Kalka",
+    "description": "Government College Raipur Rani serves students around Kalka from its Kalka-Panchkula belt location. It is a dependable option for arts, commerce, BCA, societies, value-conscious fees, and higher-study preparation.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "48%",
+    "avg_package": "INR 2.9 LPA",
+    "highest_package": "INR 6.5 LPA",
+    "courses": [
+      {
+        "course_name": "B.A.",
+        "duration": "3 years",
+        "semester_fee": "INR 16,000",
+        "total_fee": "INR 0.96 lakh",
+        "eligibility": "12th with minimum 35% from any recognized board",
+        "placement_rate": "40%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 23,000",
+        "total_fee": "INR 1.38 lakh",
+        "eligibility": "12th with minimum 40% from commerce or equivalent stream",
+        "placement_rate": "46%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 31,000",
+        "total_fee": "INR 1.86 lakh",
+        "eligibility": "12th with minimum 43% with Mathematics or Computer Science preferred",
+        "placement_rate": "51%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Kabir",
+        "rating": "3.7",
+        "comment": "Faculty is approachable and societies make campus life active throughout the year."
+      },
+      {
+        "student": "Naina",
+        "rating": "3.5",
+        "comment": "The fee structure is reasonable and commerce students get useful internship guidance."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Government Polytechnic Nanakpur",
+    "city": "Kalka",
+    "location": "Nanakpur near Pinjore",
+    "type": "Government Polytechnic",
+    "rating": "3.8",
+    "student_review_score": "3.7",
+    "image": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://gpnanakpur.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Government%20Polytechnic%20Nanakpur%20Nanakpur%20near%20Pinjore%20Kalka",
+    "description": "Government Polytechnic Nanakpur serves students around Kalka from its Nanakpur near Pinjore location. It focuses on employable diploma skills, workshops, practical labs, and local industry readiness.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "59%",
+    "avg_package": "INR 3.2 LPA",
+    "highest_package": "INR 7.5 LPA",
+    "courses": [
+      {
+        "course_name": "Diploma Computer Engineering",
+        "duration": "3 years",
+        "semester_fee": "INR 26,000",
+        "total_fee": "INR 1.56 lakh",
+        "eligibility": "12th with minimum 42% or 10th with Mathematics and Science",
+        "placement_rate": "62%"
+      },
+      {
+        "course_name": "Diploma Civil Engineering",
+        "duration": "3 years",
+        "semester_fee": "INR 20,000",
+        "total_fee": "INR 1.20 lakh",
+        "eligibility": "12th with minimum 40% or 10th with Mathematics and Science",
+        "placement_rate": "57%"
+      },
+      {
+        "course_name": "Diploma Mechanical Engineering",
+        "duration": "3 years",
+        "semester_fee": "INR 22,000",
+        "total_fee": "INR 1.32 lakh",
+        "eligibility": "12th with minimum 40% or 10th with Mathematics and Science",
+        "placement_rate": "58%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ishita",
+        "rating": "3.8",
+        "comment": "Workshop training is hands-on and the placement cell brings steady local recruiters."
+      },
+      {
+        "student": "Dev",
+        "rating": "3.5",
+        "comment": "Faculty support is good for diploma projects and lateral-entry guidance."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Government Industrial Training Institute Kalka",
+    "city": "Kalka",
+    "location": "Kalka",
+    "type": "Government Technical Institute",
+    "rating": "3.6",
+    "student_review_score": "3.6",
+    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://itiharyana.gov.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Government%20Industrial%20Training%20Institute%20Kalka%20Kalka%20Kalka",
+    "description": "Government Industrial Training Institute Kalka serves students around Kalka from its Kalka location. It focuses on employable diploma skills, workshops, practical labs, and local industry readiness.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "46%",
+    "avg_package": "INR 2.7 LPA",
+    "highest_package": "INR 5.5 LPA",
+    "courses": [
+      {
+        "course_name": "Diploma Computer Engineering",
+        "duration": "3 years",
+        "semester_fee": "INR 22,000",
+        "total_fee": "INR 1.32 lakh",
+        "eligibility": "12th with minimum 40% or 10th with Mathematics and Science",
+        "placement_rate": "49%"
+      },
+      {
+        "course_name": "Diploma Civil Engineering",
+        "duration": "3 years",
+        "semester_fee": "INR 16,000",
+        "total_fee": "INR 0.96 lakh",
+        "eligibility": "12th with minimum 38% or 10th with Mathematics and Science",
+        "placement_rate": "44%"
+      },
+      {
+        "course_name": "Diploma Mechanical Engineering",
+        "duration": "3 years",
+        "semester_fee": "INR 18,000",
+        "total_fee": "INR 1.08 lakh",
+        "eligibility": "12th with minimum 38% or 10th with Mathematics and Science",
+        "placement_rate": "45%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Rohan",
+        "rating": "3.7",
+        "comment": "Workshop training is hands-on and the placement cell brings steady local recruiters."
+      },
+      {
+        "student": "Ananya",
+        "rating": "3.5",
+        "comment": "Faculty support is good for diploma projects and lateral-entry guidance."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Maharaja Agrasen University Access Zone",
+    "city": "Kalka",
+    "location": "Kalka-Baddi corridor",
+    "type": "Private University",
+    "rating": "4.2",
+    "student_review_score": "4.1",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://mau.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Maharaja%20Agrasen%20University%20Access%20Zone%20Kalka-Baddi%20corridor%20Kalka",
+    "description": "Maharaja Agrasen University Access Zone serves students around Kalka from its Kalka-Baddi corridor location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "74%",
+    "avg_package": "INR 5.8 LPA",
+    "highest_package": "INR 18 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,00,000",
+        "total_fee": "INR 8.00 lakh",
+        "eligibility": "12th with minimum 56% with Physics and Mathematics",
+        "placement_rate": "78%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 69,000",
+        "total_fee": "INR 4.14 lakh",
+        "eligibility": "12th with minimum 52% from any recognized board",
+        "placement_rate": "69%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 72,000",
+        "total_fee": "INR 4.32 lakh",
+        "eligibility": "12th with minimum 52% with Mathematics or Computer Science",
+        "placement_rate": "73%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Simran",
+        "rating": "4.2",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Karan",
+        "rating": "3.9",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "IEC University Access Zone",
+    "city": "Kalka",
+    "location": "Atal Shiksha Kunj corridor",
+    "type": "Private University",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1519452575417-564c1401ecc0?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.iecuniversity.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=IEC%20University%20Access%20Zone%20Atal%20Shiksha%20Kunj%20corridor%20Kalka",
+    "description": "IEC University Access Zone serves students around Kalka from its Atal Shiksha Kunj corridor location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "70%",
+    "avg_package": "INR 4.6 LPA",
+    "highest_package": "INR 15 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 90,000",
+        "total_fee": "INR 7.20 lakh",
+        "eligibility": "12th with minimum 54% with Physics and Mathematics",
+        "placement_rate": "74%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 59,000",
+        "total_fee": "INR 3.54 lakh",
+        "eligibility": "12th with minimum 50% from any recognized board",
+        "placement_rate": "65%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 62,000",
+        "total_fee": "INR 3.72 lakh",
+        "eligibility": "12th with minimum 50% with Mathematics or Computer Science",
+        "placement_rate": "69%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Arjun",
+        "rating": "4.0",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Tanya",
+        "rating": "3.7",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Baddi University School of Engineering Access Zone",
+    "city": "Kalka",
+    "location": "Kalka-Baddi Road",
+    "type": "Private Engineering School",
+    "rating": "4.1",
+    "student_review_score": "4.0",
+    "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.baddiuniv.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Baddi%20University%20School%20of%20Engineering%20Access%20Zone%20Kalka-Baddi%20Road%20Kalka",
+    "description": "Baddi University School of Engineering Access Zone serves students around Kalka from its Kalka-Baddi Road location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "73%",
+    "avg_package": "INR 5.0 LPA",
+    "highest_package": "INR 18 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 94,000",
+        "total_fee": "INR 7.52 lakh",
+        "eligibility": "12th with minimum 54% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "78%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 85,000",
+        "total_fee": "INR 6.80 lakh",
+        "eligibility": "12th with minimum 52% with Physics and Mathematics",
+        "placement_rate": "74%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 76,000",
+        "total_fee": "INR 6.08 lakh",
+        "eligibility": "12th with minimum 52% with Physics and Mathematics",
+        "placement_rate": "69%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Naina",
+        "rating": "4.1",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Aarav",
+        "rating": "3.8",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Bahra University Engineering Access Zone",
+    "city": "Kalka",
+    "location": "Waknaghat via Kalka-Solan corridor",
+    "type": "Private Engineering School",
+    "rating": "3.8",
+    "student_review_score": "3.7",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://bahrauniversity.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Bahra%20University%20Engineering%20Access%20Zone%20Waknaghat%20Kalka",
+    "description": "Bahra University Engineering Access Zone serves students around Kalka from its Waknaghat via Kalka-Solan corridor location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "61%",
+    "avg_package": "INR 3.7 LPA",
+    "highest_package": "INR 10 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 82,000",
+        "total_fee": "INR 6.56 lakh",
+        "eligibility": "12th with minimum 50% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "66%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 73,000",
+        "total_fee": "INR 5.84 lakh",
+        "eligibility": "12th with minimum 48% with Physics and Mathematics",
+        "placement_rate": "62%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 64,000",
+        "total_fee": "INR 5.12 lakh",
+        "eligibility": "12th with minimum 48% with Physics and Mathematics",
+        "placement_rate": "57%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Dev",
+        "rating": "3.8",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Mehak",
+        "rating": "3.5",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Shoolini School of Engineering Access Zone",
+    "city": "Kalka",
+    "location": "Kalka-Solan corridor",
+    "type": "Private University School",
+    "rating": "4.5",
+    "student_review_score": "4.4",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://shooliniuniversity.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Shoolini%20School%20of%20Engineering%20Access%20Zone%20Kalka-Solan%20corridor%20Kalka",
+    "description": "Shoolini School of Engineering Access Zone serves students around Kalka from its Kalka-Solan corridor location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "88%",
+    "avg_package": "INR 7.5 LPA",
+    "highest_package": "INR 42 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,16,000",
+        "total_fee": "INR 9.28 lakh",
+        "eligibility": "12th with minimum 60% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "93%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 1,07,000",
+        "total_fee": "INR 8.56 lakh",
+        "eligibility": "12th with minimum 58% with Physics and Mathematics",
+        "placement_rate": "89%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 98,000",
+        "total_fee": "INR 7.84 lakh",
+        "eligibility": "12th with minimum 58% with Physics and Mathematics",
+        "placement_rate": "84%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ananya",
+        "rating": "4.5",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Kabir",
+        "rating": "4.2",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "LR Institute of Pharmacy Access Zone",
+    "city": "Kalka",
+    "location": "Solan highway access",
+    "type": "Private Pharmacy College",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://lrinstitutes.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=LR%20Institute%20of%20Pharmacy%20Access%20Zone%20Solan%20highway%20access%20Kalka",
+    "description": "LR Institute of Pharmacy Access Zone serves students around Kalka from its Solan highway access location. It supports pharmacy students through labs, industrial visits, regulatory awareness, and healthcare placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "66%",
+    "avg_package": "INR 3.8 LPA",
+    "highest_package": "INR 9 LPA",
+    "courses": [
+      {
+        "course_name": "B.Pharm",
+        "duration": "4 years",
+        "semester_fee": "INR 68,000",
+        "total_fee": "INR 5.44 lakh",
+        "eligibility": "12th with minimum 51% with Physics, Chemistry, and Biology or Mathematics",
+        "placement_rate": "68%"
+      },
+      {
+        "course_name": "D.Pharm",
+        "duration": "2 years",
+        "semester_fee": "INR 45,000",
+        "total_fee": "INR 1.80 lakh",
+        "eligibility": "12th with minimum 48% with Physics and Chemistry",
+        "placement_rate": "64%"
+      },
+      {
+        "course_name": "M.Pharm Pharmaceutics",
+        "duration": "2 years",
+        "semester_fee": "INR 77,000",
+        "total_fee": "INR 3.08 lakh",
+        "eligibility": "12th with minimum 56% or B.Pharm with qualifying score",
+        "placement_rate": "70%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Karan",
+        "rating": "3.9",
+        "comment": "Pharma labs are well structured and industrial visits help understand production roles."
+      },
+      {
+        "student": "Ishita",
+        "rating": "3.6",
+        "comment": "Faculty pushes students toward GPAT preparation and internships."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Chitkara University Access Zone",
+    "city": "Kalka",
+    "location": "Expressway access",
+    "type": "Private University",
+    "rating": "4.6",
+    "student_review_score": "4.5",
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.chitkara.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Chitkara%20University%20Access%20Zone%20Expressway%20access%20Kalka",
+    "description": "Chitkara University Access Zone serves students around Kalka from its Expressway access location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "89%",
+    "avg_package": "INR 8.5 LPA",
+    "highest_package": "INR 44 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,32,000",
+        "total_fee": "INR 10.56 lakh",
+        "eligibility": "12th with minimum 64% with Physics and Mathematics",
+        "placement_rate": "93%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 1,01,000",
+        "total_fee": "INR 6.06 lakh",
+        "eligibility": "12th with minimum 60% from any recognized board",
+        "placement_rate": "84%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 1,04,000",
+        "total_fee": "INR 6.24 lakh",
+        "eligibility": "12th with minimum 60% with Mathematics or Computer Science",
+        "placement_rate": "88%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Tanya",
+        "rating": "4.6",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Rohan",
+        "rating": "4.3",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Baddi University of Emerging Sciences and Technology",
+    "city": "Baddi",
+    "location": "Makhnumajra",
+    "type": "Private University",
+    "rating": "4.2",
+    "student_review_score": "4.1",
+    "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.baddiuniv.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Baddi%20University%20of%20Emerging%20Sciences%20and%20Technology%20Makhnumajra%20Baddi",
+    "description": "Baddi University of Emerging Sciences and Technology serves students around Baddi from its Makhnumajra location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "78%",
+    "avg_package": "INR 5.5 LPA",
+    "highest_package": "INR 18 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 98,000",
+        "total_fee": "INR 7.84 lakh",
+        "eligibility": "12th with minimum 56% with Physics and Mathematics",
+        "placement_rate": "82%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 67,000",
+        "total_fee": "INR 4.02 lakh",
+        "eligibility": "12th with minimum 52% from any recognized board",
+        "placement_rate": "73%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 70,000",
+        "total_fee": "INR 4.20 lakh",
+        "eligibility": "12th with minimum 52% with Mathematics or Computer Science",
+        "placement_rate": "77%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Aarav",
+        "rating": "4.2",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Simran",
+        "rating": "3.9",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Baddi University School of Pharmacy",
+    "city": "Baddi",
+    "location": "Makhnumajra",
+    "type": "Private Pharmacy School",
+    "rating": "4.1",
+    "student_review_score": "4.0",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.baddiuniv.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Baddi%20University%20School%20of%20Pharmacy%20Makhnumajra%20Baddi",
+    "description": "Baddi University School of Pharmacy serves students around Baddi from its Makhnumajra location. It supports pharmacy students through labs, industrial visits, regulatory awareness, and healthcare placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "74%",
+    "avg_package": "INR 4.7 LPA",
+    "highest_package": "INR 12 LPA",
+    "courses": [
+      {
+        "course_name": "B.Pharm",
+        "duration": "4 years",
+        "semester_fee": "INR 87,000",
+        "total_fee": "INR 6.96 lakh",
+        "eligibility": "12th with minimum 55% with Physics, Chemistry, and Biology or Mathematics",
+        "placement_rate": "76%"
+      },
+      {
+        "course_name": "D.Pharm",
+        "duration": "2 years",
+        "semester_fee": "INR 64,000",
+        "total_fee": "INR 2.56 lakh",
+        "eligibility": "12th with minimum 52% with Physics and Chemistry",
+        "placement_rate": "72%"
+      },
+      {
+        "course_name": "M.Pharm Pharmaceutics",
+        "duration": "2 years",
+        "semester_fee": "INR 96,000",
+        "total_fee": "INR 3.84 lakh",
+        "eligibility": "12th with minimum 60% or B.Pharm with qualifying score",
+        "placement_rate": "78%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Mehak",
+        "rating": "4.1",
+        "comment": "Pharma labs are well structured and industrial visits help understand production roles."
+      },
+      {
+        "student": "Arjun",
+        "rating": "3.8",
+        "comment": "Faculty pushes students toward GPAT preparation and internships."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Baddi University School of Management Studies",
+    "city": "Baddi",
+    "location": "Makhnumajra",
+    "type": "Private Management School",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.baddiuniv.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Baddi%20University%20School%20of%20Management%20Studies%20Makhnumajra%20Baddi",
+    "description": "Baddi University School of Management Studies serves students around Baddi from its Makhnumajra location. It emphasizes management foundations, internships, case studies, presentations, and recruiter interactions.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "70%",
+    "avg_package": "INR 4.8 LPA",
+    "highest_package": "INR 14 LPA",
+    "courses": [
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 77,000",
+        "total_fee": "INR 4.62 lakh",
+        "eligibility": "12th with minimum 50% from any recognized board",
+        "placement_rate": "70%"
+      },
+      {
+        "course_name": "MBA",
+        "duration": "2 years",
+        "semester_fee": "INR 1,15,000",
+        "total_fee": "INR 4.60 lakh",
+        "eligibility": "12th with minimum 58% or graduation with qualifying aptitude score",
+        "placement_rate": "78%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 72,000",
+        "total_fee": "INR 4.32 lakh",
+        "eligibility": "12th with minimum 50% from commerce or equivalent stream",
+        "placement_rate": "67%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Kabir",
+        "rating": "4.0",
+        "comment": "Case discussions and internships are useful for management placements."
+      },
+      {
+        "student": "Naina",
+        "rating": "3.7",
+        "comment": "The campus has a professional environment and good industry sessions."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Baddi University School of Sciences",
+    "city": "Baddi",
+    "location": "Makhnumajra",
+    "type": "Private Science School",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.baddiuniv.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Baddi%20University%20School%20of%20Sciences%20Makhnumajra%20Baddi",
+    "description": "Baddi University School of Sciences serves students around Baddi from its Makhnumajra location. It supports research-driven learning in biotechnology, microbiology, analytics, and life-science projects.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "68%",
+    "avg_package": "INR 4.4 LPA",
+    "highest_package": "INR 11 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Biotechnology",
+        "duration": "3 years",
+        "semester_fee": "INR 71,000",
+        "total_fee": "INR 4.26 lakh",
+        "eligibility": "12th with minimum 52% with Biology or Biotechnology",
+        "placement_rate": "69%"
+      },
+      {
+        "course_name": "B.Tech Biotechnology",
+        "duration": "4 years",
+        "semester_fee": "INR 87,000",
+        "total_fee": "INR 6.96 lakh",
+        "eligibility": "12th with minimum 54% with Physics, Chemistry, and Biology or Mathematics",
+        "placement_rate": "72%"
+      },
+      {
+        "course_name": "M.Sc Microbiology",
+        "duration": "2 years",
+        "semester_fee": "INR 77,000",
+        "total_fee": "INR 3.08 lakh",
+        "eligibility": "12th with minimum 58% or graduation in life sciences",
+        "placement_rate": "70%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ishita",
+        "rating": "4.0",
+        "comment": "Research labs and project mentoring are the biggest strengths of the program."
+      },
+      {
+        "student": "Dev",
+        "rating": "3.7",
+        "comment": "Students interested in biotech and analytics get good internship support."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "IEC University",
+    "city": "Baddi",
+    "location": "Atal Shiksha Kunj",
+    "type": "Private University",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.iecuniversity.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=IEC%20University%20Atal%20Shiksha%20Kunj%20Baddi",
+    "description": "IEC University serves students around Baddi from its Atal Shiksha Kunj location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "70%",
+    "avg_package": "INR 4.6 LPA",
+    "highest_package": "INR 15 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 90,000",
+        "total_fee": "INR 7.20 lakh",
+        "eligibility": "12th with minimum 54% with Physics and Mathematics",
+        "placement_rate": "74%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 59,000",
+        "total_fee": "INR 3.54 lakh",
+        "eligibility": "12th with minimum 50% from any recognized board",
+        "placement_rate": "65%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 62,000",
+        "total_fee": "INR 3.72 lakh",
+        "eligibility": "12th with minimum 50% with Mathematics or Computer Science",
+        "placement_rate": "69%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Rohan",
+        "rating": "4.0",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Ananya",
+        "rating": "3.7",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "IEC School of Engineering",
+    "city": "Baddi",
+    "location": "Atal Shiksha Kunj",
+    "type": "Private Engineering School",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.iecuniversity.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=IEC%20School%20of%20Engineering%20Atal%20Shiksha%20Kunj%20Baddi",
+    "description": "IEC School of Engineering serves students around Baddi from its Atal Shiksha Kunj location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "66%",
+    "avg_package": "INR 4.2 LPA",
+    "highest_package": "INR 13 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 84,000",
+        "total_fee": "INR 6.72 lakh",
+        "eligibility": "12th with minimum 52% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "71%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 75,000",
+        "total_fee": "INR 6.00 lakh",
+        "eligibility": "12th with minimum 50% with Physics and Mathematics",
+        "placement_rate": "67%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 66,000",
+        "total_fee": "INR 5.28 lakh",
+        "eligibility": "12th with minimum 50% with Physics and Mathematics",
+        "placement_rate": "62%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Simran",
+        "rating": "3.9",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Karan",
+        "rating": "3.6",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "IEC School of Management and Commerce",
+    "city": "Baddi",
+    "location": "Atal Shiksha Kunj",
+    "type": "Private Management School",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1519452575417-564c1401ecc0?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.iecuniversity.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=IEC%20School%20of%20Management%20and%20Commerce%20Atal%20Shiksha%20Kunj%20Baddi",
+    "description": "IEC School of Management and Commerce serves students around Baddi from its Atal Shiksha Kunj location. It emphasizes management foundations, internships, case studies, presentations, and recruiter interactions.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "64%",
+    "avg_package": "INR 4.0 LPA",
+    "highest_package": "INR 11 LPA",
+    "courses": [
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 61,000",
+        "total_fee": "INR 3.66 lakh",
+        "eligibility": "12th with minimum 48% from any recognized board",
+        "placement_rate": "64%"
+      },
+      {
+        "course_name": "MBA",
+        "duration": "2 years",
+        "semester_fee": "INR 99,000",
+        "total_fee": "INR 3.96 lakh",
+        "eligibility": "12th with minimum 56% or graduation with qualifying aptitude score",
+        "placement_rate": "72%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 56,000",
+        "total_fee": "INR 3.36 lakh",
+        "eligibility": "12th with minimum 48% from commerce or equivalent stream",
+        "placement_rate": "61%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Arjun",
+        "rating": "3.9",
+        "comment": "Case discussions and internships are useful for management placements."
+      },
+      {
+        "student": "Tanya",
+        "rating": "3.6",
+        "comment": "The campus has a professional environment and good industry sessions."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Maharaja Agrasen University",
+    "city": "Baddi",
+    "location": "Atal Shiksha Kunj",
+    "type": "Private University",
+    "rating": "4.2",
+    "student_review_score": "4.1",
+    "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://mau.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Maharaja%20Agrasen%20University%20Atal%20Shiksha%20Kunj%20Baddi",
+    "description": "Maharaja Agrasen University serves students around Baddi from its Atal Shiksha Kunj location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "74%",
+    "avg_package": "INR 5.8 LPA",
+    "highest_package": "INR 18 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,00,000",
+        "total_fee": "INR 8.00 lakh",
+        "eligibility": "12th with minimum 56% with Physics and Mathematics",
+        "placement_rate": "78%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 69,000",
+        "total_fee": "INR 4.14 lakh",
+        "eligibility": "12th with minimum 52% from any recognized board",
+        "placement_rate": "69%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 72,000",
+        "total_fee": "INR 4.32 lakh",
+        "eligibility": "12th with minimum 52% with Mathematics or Computer Science",
+        "placement_rate": "73%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Naina",
+        "rating": "4.2",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Aarav",
+        "rating": "3.9",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Maharaja Agrasen School of Engineering and Technology",
+    "city": "Baddi",
+    "location": "Atal Shiksha Kunj",
+    "type": "Private Engineering School",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://mau.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Maharaja%20Agrasen%20School%20of%20Engineering%20and%20Technology%20Atal%20Shiksha%20Kunj%20Baddi",
+    "description": "Maharaja Agrasen School of Engineering and Technology serves students around Baddi from its Atal Shiksha Kunj location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "69%",
+    "avg_package": "INR 4.8 LPA",
+    "highest_package": "INR 15 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 92,000",
+        "total_fee": "INR 7.36 lakh",
+        "eligibility": "12th with minimum 54% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "74%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 83,000",
+        "total_fee": "INR 6.64 lakh",
+        "eligibility": "12th with minimum 52% with Physics and Mathematics",
+        "placement_rate": "70%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 74,000",
+        "total_fee": "INR 5.92 lakh",
+        "eligibility": "12th with minimum 52% with Physics and Mathematics",
+        "placement_rate": "65%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Dev",
+        "rating": "4.0",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Mehak",
+        "rating": "3.7",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Baddi University School of Life Sciences",
+    "city": "Baddi",
+    "location": "Makhnumajra",
+    "type": "Private Life Sciences School",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.baddiuniv.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Baddi%20University%20School%20of%20Life%20Sciences%20Makhnumajra%20Baddi",
+    "description": "Baddi University School of Life Sciences serves students around Baddi from its Makhnumajra location. It supports research-driven learning in biotechnology, microbiology, analytics, and life-science projects.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "67%",
+    "avg_package": "INR 4.1 LPA",
+    "highest_package": "INR 10 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Biotechnology",
+        "duration": "3 years",
+        "semester_fee": "INR 68,000",
+        "total_fee": "INR 4.08 lakh",
+        "eligibility": "12th with minimum 52% with Biology or Biotechnology",
+        "placement_rate": "68%"
+      },
+      {
+        "course_name": "B.Tech Biotechnology",
+        "duration": "4 years",
+        "semester_fee": "INR 84,000",
+        "total_fee": "INR 6.72 lakh",
+        "eligibility": "12th with minimum 54% with Physics, Chemistry, and Biology or Mathematics",
+        "placement_rate": "71%"
+      },
+      {
+        "course_name": "M.Sc Microbiology",
+        "duration": "2 years",
+        "semester_fee": "INR 74,000",
+        "total_fee": "INR 2.96 lakh",
+        "eligibility": "12th with minimum 58% or graduation in life sciences",
+        "placement_rate": "69%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ananya",
+        "rating": "4.0",
+        "comment": "Research labs and project mentoring are the biggest strengths of the program."
+      },
+      {
+        "student": "Kabir",
+        "rating": "3.7",
+        "comment": "Students interested in biotech and analytics get good internship support."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Bhojia Dental College and Hospital",
+    "city": "Baddi",
+    "location": "Budh Barotiwala",
+    "type": "Private Dental College",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://dental.bhojiamededu.com/HomePage.aspx",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Bhojia%20Dental%20College%20and%20Hospital%20Budh%20Barotiwala%20Baddi",
+    "description": "Bhojia Dental College and Hospital serves students around Baddi from its Budh Barotiwala location. It combines classroom learning with clinical practice, patient exposure, and healthcare internship readiness.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "68%",
+    "avg_package": "INR 5.0 LPA",
+    "highest_package": "INR 12 LPA",
+    "courses": [
+      {
+        "course_name": "BDS",
+        "duration": "5 years",
+        "semester_fee": "INR 2,17,000",
+        "total_fee": "INR 21.70 lakh",
+        "eligibility": "12th with minimum 63% with Physics, Chemistry, Biology, and qualifying entrance score",
+        "placement_rate": "70%"
+      },
+      {
+        "course_name": "MDS Conservative Dentistry",
+        "duration": "3 years",
+        "semester_fee": "INR 2,62,000",
+        "total_fee": "INR 15.72 lakh",
+        "eligibility": "12th with minimum 67% or BDS with qualifying entrance score",
+        "placement_rate": "74%"
+      },
+      {
+        "course_name": "Dental Hygiene Diploma",
+        "duration": "2 years",
+        "semester_fee": "INR 1,32,000",
+        "total_fee": "INR 5.28 lakh",
+        "eligibility": "12th with minimum 55% with Biology preferred",
+        "placement_rate": "63%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Karan",
+        "rating": "4.0",
+        "comment": "Clinical postings are demanding and give steady patient exposure."
+      },
+      {
+        "student": "Ishita",
+        "rating": "3.7",
+        "comment": "Hostel facilities are decent and departments are strict about practical discipline."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Government College Barotiwala",
+    "city": "Baddi",
+    "location": "Barotiwala",
+    "type": "Government College",
+    "rating": "3.7",
+    "student_review_score": "3.6",
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://gcbarotiwala.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Government%20College%20Barotiwala%20Barotiwala%20Baddi",
+    "description": "Government College Barotiwala serves students around Baddi from its Barotiwala location. It is a dependable option for arts, commerce, BCA, societies, value-conscious fees, and higher-study preparation.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "49%",
+    "avg_package": "INR 2.9 LPA",
+    "highest_package": "INR 6.5 LPA",
+    "courses": [
+      {
+        "course_name": "B.A.",
+        "duration": "3 years",
+        "semester_fee": "INR 15,000",
+        "total_fee": "INR 0.90 lakh",
+        "eligibility": "12th with minimum 37% from any recognized board",
+        "placement_rate": "41%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 22,000",
+        "total_fee": "INR 1.32 lakh",
+        "eligibility": "12th with minimum 42% from commerce or equivalent stream",
+        "placement_rate": "47%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 30,000",
+        "total_fee": "INR 1.80 lakh",
+        "eligibility": "12th with minimum 45% with Mathematics or Computer Science preferred",
+        "placement_rate": "52%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Tanya",
+        "rating": "3.7",
+        "comment": "Faculty is approachable and societies make campus life active throughout the year."
+      },
+      {
+        "student": "Rohan",
+        "rating": "3.5",
+        "comment": "The fee structure is reasonable and commerce students get useful internship guidance."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Shoolini University",
+    "city": "Solan",
+    "location": "Bajhol",
+    "type": "Private University",
+    "rating": "4.6",
+    "student_review_score": "4.5",
+    "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://shooliniuniversity.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Shoolini%20University%20Bajhol%20Solan",
+    "description": "Shoolini University serves students around Solan from its Bajhol location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "88%",
+    "avg_package": "INR 7.2 LPA",
+    "highest_package": "INR 42 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,20,000",
+        "total_fee": "INR 9.60 lakh",
+        "eligibility": "12th with minimum 62% with Physics and Mathematics",
+        "placement_rate": "92%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 89,000",
+        "total_fee": "INR 5.34 lakh",
+        "eligibility": "12th with minimum 58% from any recognized board",
+        "placement_rate": "83%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 92,000",
+        "total_fee": "INR 5.52 lakh",
+        "eligibility": "12th with minimum 58% with Mathematics or Computer Science",
+        "placement_rate": "87%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Aarav",
+        "rating": "4.6",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Simran",
+        "rating": "4.3",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Shoolini School of Engineering and Technology",
+    "city": "Solan",
+    "location": "Bajhol",
+    "type": "Private Engineering School",
+    "rating": "4.5",
+    "student_review_score": "4.4",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://shooliniuniversity.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Shoolini%20School%20of%20Engineering%20and%20Technology%20Bajhol%20Solan",
+    "description": "Shoolini School of Engineering and Technology serves students around Solan from its Bajhol location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "86%",
+    "avg_package": "INR 7.8 LPA",
+    "highest_package": "INR 42 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,20,000",
+        "total_fee": "INR 9.60 lakh",
+        "eligibility": "12th with minimum 62% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "91%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 1,11,000",
+        "total_fee": "INR 8.88 lakh",
+        "eligibility": "12th with minimum 60% with Physics and Mathematics",
+        "placement_rate": "87%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,02,000",
+        "total_fee": "INR 8.16 lakh",
+        "eligibility": "12th with minimum 60% with Physics and Mathematics",
+        "placement_rate": "82%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Mehak",
+        "rating": "4.5",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Arjun",
+        "rating": "4.2",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Shoolini School of Biotechnology",
+    "city": "Solan",
+    "location": "Bajhol",
+    "type": "Private Biotechnology School",
+    "rating": "4.5",
+    "student_review_score": "4.4",
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://shooliniuniversity.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Shoolini%20School%20of%20Biotechnology%20Bajhol%20Solan",
+    "description": "Shoolini School of Biotechnology serves students around Solan from its Bajhol location. It supports research-driven learning in biotechnology, microbiology, analytics, and life-science projects.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "82%",
+    "avg_package": "INR 6.3 LPA",
+    "highest_package": "INR 18 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Biotechnology",
+        "duration": "3 years",
+        "semester_fee": "INR 97,000",
+        "total_fee": "INR 5.82 lakh",
+        "eligibility": "12th with minimum 60% with Biology or Biotechnology",
+        "placement_rate": "83%"
+      },
+      {
+        "course_name": "B.Tech Biotechnology",
+        "duration": "4 years",
+        "semester_fee": "INR 1,13,000",
+        "total_fee": "INR 9.04 lakh",
+        "eligibility": "12th with minimum 62% with Physics, Chemistry, and Biology or Mathematics",
+        "placement_rate": "86%"
+      },
+      {
+        "course_name": "M.Sc Microbiology",
+        "duration": "2 years",
+        "semester_fee": "INR 1,03,000",
+        "total_fee": "INR 4.12 lakh",
+        "eligibility": "12th with minimum 66% or graduation in life sciences",
+        "placement_rate": "84%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Kabir",
+        "rating": "4.5",
+        "comment": "Research labs and project mentoring are the biggest strengths of the program."
+      },
+      {
+        "student": "Naina",
+        "rating": "4.2",
+        "comment": "Students interested in biotech and analytics get good internship support."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Dr YS Parmar University of Horticulture and Forestry",
+    "city": "Solan",
+    "location": "Nauni",
+    "type": "Public Agriculture University",
+    "rating": "4.4",
+    "student_review_score": "4.3",
+    "image": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.yspuniversity.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Dr%20YS%20Parmar%20University%20of%20Horticulture%20and%20Forestry%20Nauni%20Solan",
+    "description": "Dr YS Parmar University of Horticulture and Forestry serves students around Solan from its Nauni location. It is strong for horticulture, forestry, food technology, field practice, research farms, and applied sciences.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "73%",
+    "avg_package": "INR 4.9 LPA",
+    "highest_package": "INR 13 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Horticulture",
+        "duration": "4 years",
+        "semester_fee": "INR 62,000",
+        "total_fee": "INR 4.96 lakh",
+        "eligibility": "12th with minimum 58% with Biology or Agriculture",
+        "placement_rate": "75%"
+      },
+      {
+        "course_name": "B.Sc Forestry",
+        "duration": "4 years",
+        "semester_fee": "INR 61,000",
+        "total_fee": "INR 4.88 lakh",
+        "eligibility": "12th with minimum 58% with Biology or Agriculture",
+        "placement_rate": "73%"
+      },
+      {
+        "course_name": "B.Tech Food Technology",
+        "duration": "4 years",
+        "semester_fee": "INR 70,000",
+        "total_fee": "INR 5.60 lakh",
+        "eligibility": "12th with minimum 59% with Science stream",
+        "placement_rate": "77%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ishita",
+        "rating": "4.4",
+        "comment": "Field training and research farms make the course very practical."
+      },
+      {
+        "student": "Dev",
+        "rating": "4.1",
+        "comment": "The campus is calm and ideal for horticulture and forestry students."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Jaypee University of Information Technology",
+    "city": "Solan",
+    "location": "Waknaghat",
+    "type": "Private Technical University",
+    "rating": "4.4",
+    "student_review_score": "4.3",
+    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.juit.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Jaypee%20University%20of%20Information%20Technology%20Waknaghat%20Solan",
+    "description": "Jaypee University of Information Technology serves students around Solan from its Waknaghat location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "84%",
+    "avg_package": "INR 7.6 LPA",
+    "highest_package": "INR 50 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,46,000",
+        "total_fee": "INR 11.68 lakh",
+        "eligibility": "12th with minimum 62% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "89%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 1,37,000",
+        "total_fee": "INR 10.96 lakh",
+        "eligibility": "12th with minimum 60% with Physics and Mathematics",
+        "placement_rate": "85%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,28,000",
+        "total_fee": "INR 10.24 lakh",
+        "eligibility": "12th with minimum 60% with Physics and Mathematics",
+        "placement_rate": "80%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Rohan",
+        "rating": "4.4",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Ananya",
+        "rating": "4.1",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Bahra University",
+    "city": "Solan",
+    "location": "Waknaghat",
+    "type": "Private University",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://bahrauniversity.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Bahra%20University%20Waknaghat%20Solan",
+    "description": "Bahra University serves students around Solan from its Waknaghat location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "69%",
+    "avg_package": "INR 4.8 LPA",
+    "highest_package": "INR 14 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,04,000",
+        "total_fee": "INR 8.32 lakh",
+        "eligibility": "12th with minimum 54% with Physics and Mathematics",
+        "placement_rate": "73%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 73,000",
+        "total_fee": "INR 4.38 lakh",
+        "eligibility": "12th with minimum 50% from any recognized board",
+        "placement_rate": "64%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 76,000",
+        "total_fee": "INR 4.56 lakh",
+        "eligibility": "12th with minimum 50% with Mathematics or Computer Science",
+        "placement_rate": "68%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Simran",
+        "rating": "4.0",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Karan",
+        "rating": "3.7",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Government College Solan",
+    "city": "Solan",
+    "location": "Kotla Nala",
+    "type": "Government College",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1519452575417-564c1401ecc0?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://gcsolan.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Government%20College%20Solan%20Kotla%20Nala%20Solan",
+    "description": "Government College Solan serves students around Solan from its Kotla Nala location. It is a dependable option for arts, commerce, BCA, societies, value-conscious fees, and higher-study preparation.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "52%",
+    "avg_package": "INR 3.0 LPA",
+    "highest_package": "INR 7 LPA",
+    "courses": [
+      {
+        "course_name": "B.A.",
+        "duration": "3 years",
+        "semester_fee": "INR 17,000",
+        "total_fee": "INR 1.02 lakh",
+        "eligibility": "12th with minimum 37% from any recognized board",
+        "placement_rate": "44%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 24,000",
+        "total_fee": "INR 1.44 lakh",
+        "eligibility": "12th with minimum 42% from commerce or equivalent stream",
+        "placement_rate": "50%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 32,000",
+        "total_fee": "INR 1.92 lakh",
+        "eligibility": "12th with minimum 45% with Mathematics or Computer Science preferred",
+        "placement_rate": "55%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Arjun",
+        "rating": "3.9",
+        "comment": "Faculty is approachable and societies make campus life active throughout the year."
+      },
+      {
+        "student": "Tanya",
+        "rating": "3.6",
+        "comment": "The fee structure is reasonable and commerce students get useful internship guidance."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Bahra University School of Engineering",
+    "city": "Solan",
+    "location": "Waknaghat",
+    "type": "Private Engineering School",
+    "rating": "3.8",
+    "student_review_score": "3.7",
+    "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://bahrauniversity.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Bahra%20University%20School%20of%20Engineering%20Waknaghat%20Solan",
+    "description": "Bahra University School of Engineering serves students around Solan from its Waknaghat location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "61%",
+    "avg_package": "INR 3.7 LPA",
+    "highest_package": "INR 10 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 82,000",
+        "total_fee": "INR 6.56 lakh",
+        "eligibility": "12th with minimum 50% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "66%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 73,000",
+        "total_fee": "INR 5.84 lakh",
+        "eligibility": "12th with minimum 48% with Physics and Mathematics",
+        "placement_rate": "62%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 64,000",
+        "total_fee": "INR 5.12 lakh",
+        "eligibility": "12th with minimum 48% with Physics and Mathematics",
+        "placement_rate": "57%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Naina",
+        "rating": "3.8",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Aarav",
+        "rating": "3.5",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "LR Institute of Legal Studies",
+    "city": "Solan",
+    "location": "Jabli-Kyar",
+    "type": "Private Law College",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://lrinstitutes.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=LR%20Institute%20of%20Legal%20Studies%20Jabli-Kyar%20Solan",
+    "description": "LR Institute of Legal Studies serves students around Solan from its Jabli-Kyar location. It provides law students with moot courts, legal aid work, court visits, and internship guidance.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "57%",
+    "avg_package": "INR 3.5 LPA",
+    "highest_package": "INR 8 LPA",
+    "courses": [
+      {
+        "course_name": "BA LLB",
+        "duration": "5 years",
+        "semester_fee": "INR 64,000",
+        "total_fee": "INR 6.40 lakh",
+        "eligibility": "12th with minimum 50% from any recognized board",
+        "placement_rate": "57%"
+      },
+      {
+        "course_name": "BBA LLB",
+        "duration": "5 years",
+        "semester_fee": "INR 67,000",
+        "total_fee": "INR 6.70 lakh",
+        "eligibility": "12th with minimum 51% from any recognized board",
+        "placement_rate": "59%"
+      },
+      {
+        "course_name": "LLB",
+        "duration": "3 years",
+        "semester_fee": "INR 58,000",
+        "total_fee": "INR 3.48 lakh",
+        "eligibility": "12th with minimum 56% or graduation from a recognized university",
+        "placement_rate": "54%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Dev",
+        "rating": "3.9",
+        "comment": "Moot court activities and legal aid camps make the course practical."
+      },
+      {
+        "student": "Mehak",
+        "rating": "3.6",
+        "comment": "Faculty guides internships well, especially for district court exposure."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "LR Institute of Pharmacy",
+    "city": "Solan",
+    "location": "Jabli-Kyar",
+    "type": "Private Pharmacy College",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://lrinstitutes.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=LR%20Institute%20of%20Pharmacy%20Jabli-Kyar%20Solan",
+    "description": "LR Institute of Pharmacy serves students around Solan from its Jabli-Kyar location. It supports pharmacy students through labs, industrial visits, regulatory awareness, and healthcare placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "66%",
+    "avg_package": "INR 3.8 LPA",
+    "highest_package": "INR 9 LPA",
+    "courses": [
+      {
+        "course_name": "B.Pharm",
+        "duration": "4 years",
+        "semester_fee": "INR 68,000",
+        "total_fee": "INR 5.44 lakh",
+        "eligibility": "12th with minimum 51% with Physics, Chemistry, and Biology or Mathematics",
+        "placement_rate": "68%"
+      },
+      {
+        "course_name": "D.Pharm",
+        "duration": "2 years",
+        "semester_fee": "INR 45,000",
+        "total_fee": "INR 1.80 lakh",
+        "eligibility": "12th with minimum 48% with Physics and Chemistry",
+        "placement_rate": "64%"
+      },
+      {
+        "course_name": "M.Pharm Pharmaceutics",
+        "duration": "2 years",
+        "semester_fee": "INR 77,000",
+        "total_fee": "INR 3.08 lakh",
+        "eligibility": "12th with minimum 56% or B.Pharm with qualifying score",
+        "placement_rate": "70%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ananya",
+        "rating": "3.9",
+        "comment": "Pharma labs are well structured and industrial visits help understand production roles."
+      },
+      {
+        "student": "Kabir",
+        "rating": "3.6",
+        "comment": "Faculty pushes students toward GPAT preparation and internships."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Maharishi Markandeshwar Medical College and Hospital Solan",
+    "city": "Solan",
+    "location": "Kumarhatti",
+    "type": "Private Medical College",
+    "rating": "4.1",
+    "student_review_score": "4.0",
+    "image": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.mmusolan.org/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Maharishi%20Markandeshwar%20Medical%20College%20and%20Hospital%20Solan%20Kumarhatti%20Solan",
+    "description": "Maharishi Markandeshwar Medical College and Hospital Solan serves students around Solan from its Kumarhatti location. It offers hospital-linked clinical exposure, structured medical training, and healthcare career pathways.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "76%",
+    "avg_package": "INR 7.5 LPA",
+    "highest_package": "INR 18 LPA",
+    "courses": [
+      {
+        "course_name": "MBBS",
+        "duration": "5.5 years",
+        "semester_fee": "INR 5,30,000",
+        "total_fee": "INR 58.30 lakh",
+        "eligibility": "12th with minimum 70% with Physics, Chemistry, Biology, and qualifying entrance score",
+        "placement_rate": "81%"
+      },
+      {
+        "course_name": "BPT",
+        "duration": "4.5 years",
+        "semester_fee": "INR 2,45,000",
+        "total_fee": "INR 22.05 lakh",
+        "eligibility": "12th with minimum 64% with Physics, Chemistry, and Biology",
+        "placement_rate": "77%"
+      },
+      {
+        "course_name": "B.Sc Medical Lab Sciences",
+        "duration": "3 years",
+        "semester_fee": "INR 2,28,000",
+        "total_fee": "INR 13.68 lakh",
+        "eligibility": "12th with minimum 60% with Biology and Chemistry",
+        "placement_rate": "74%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Karan",
+        "rating": "4.1",
+        "comment": "Clinical exposure is strong and departments follow a structured routine."
+      },
+      {
+        "student": "Ishita",
+        "rating": "3.8",
+        "comment": "The workload is high, but faculty guidance and hospital practice are valuable."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Manav Bharti University",
+    "city": "Solan",
+    "location": "Laddo",
+    "type": "Private University",
+    "rating": "3.7",
+    "student_review_score": "3.6",
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://manavbhartiuniversity.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Manav%20Bharti%20University%20Laddo%20Solan",
+    "description": "Manav Bharti University serves students around Solan from its Laddo location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "52%",
+    "avg_package": "INR 3.4 LPA",
+    "highest_package": "INR 8 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 74,000",
+        "total_fee": "INR 5.92 lakh",
+        "eligibility": "12th with minimum 49% with Physics and Mathematics",
+        "placement_rate": "56%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 43,000",
+        "total_fee": "INR 2.58 lakh",
+        "eligibility": "12th with minimum 45% from any recognized board",
+        "placement_rate": "47%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 46,000",
+        "total_fee": "INR 2.76 lakh",
+        "eligibility": "12th with minimum 45% with Mathematics or Computer Science",
+        "placement_rate": "51%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Tanya",
+        "rating": "3.7",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Rohan",
+        "rating": "3.5",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Chitkara University Punjab",
+    "city": "Rajpura",
+    "location": "Chandigarh-Patiala National Highway",
+    "type": "Private University",
+    "rating": "4.7",
+    "student_review_score": "4.6",
+    "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.chitkara.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Chitkara%20University%20Punjab%20Chandigarh-Patiala%20National%20Highway%20Rajpura",
+    "description": "Chitkara University Punjab serves students around Rajpura from its Chandigarh-Patiala National Highway location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "90%",
+    "avg_package": "INR 8.8 LPA",
+    "highest_package": "INR 44 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,34,000",
+        "total_fee": "INR 10.72 lakh",
+        "eligibility": "12th with minimum 64% with Physics and Mathematics",
+        "placement_rate": "94%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 1,03,000",
+        "total_fee": "INR 6.18 lakh",
+        "eligibility": "12th with minimum 60% from any recognized board",
+        "placement_rate": "85%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 1,06,000",
+        "total_fee": "INR 6.36 lakh",
+        "eligibility": "12th with minimum 60% with Mathematics or Computer Science",
+        "placement_rate": "89%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Aarav",
+        "rating": "4.7",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Simran",
+        "rating": "4.4",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Chitkara College of Engineering and Technology",
+    "city": "Rajpura",
+    "location": "Chitkara University campus",
+    "type": "Private Engineering College",
+    "rating": "4.6",
+    "student_review_score": "4.5",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.chitkara.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Chitkara%20College%20of%20Engineering%20and%20Technology%20Chitkara%20University%20campus%20Rajpura",
+    "description": "Chitkara College of Engineering and Technology serves students around Rajpura from its Chitkara University campus location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "89%",
+    "avg_package": "INR 9.2 LPA",
+    "highest_package": "INR 44 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,36,000",
+        "total_fee": "INR 10.88 lakh",
+        "eligibility": "12th with minimum 64% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "94%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 1,27,000",
+        "total_fee": "INR 10.16 lakh",
+        "eligibility": "12th with minimum 62% with Physics and Mathematics",
+        "placement_rate": "90%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 1,18,000",
+        "total_fee": "INR 9.44 lakh",
+        "eligibility": "12th with minimum 62% with Physics and Mathematics",
+        "placement_rate": "85%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Mehak",
+        "rating": "4.6",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Arjun",
+        "rating": "4.3",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Chitkara Business School",
+    "city": "Rajpura",
+    "location": "Chitkara University campus",
+    "type": "Private Business School",
+    "rating": "4.5",
+    "student_review_score": "4.4",
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.chitkara.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Chitkara%20Business%20School%20Chitkara%20University%20campus%20Rajpura",
+    "description": "Chitkara Business School serves students around Rajpura from its Chitkara University campus location. It emphasizes management foundations, internships, case studies, presentations, and recruiter interactions.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "82%",
+    "avg_package": "INR 7.0 LPA",
+    "highest_package": "INR 24 LPA",
+    "courses": [
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 1,13,000",
+        "total_fee": "INR 6.78 lakh",
+        "eligibility": "12th with minimum 58% from any recognized board",
+        "placement_rate": "82%"
+      },
+      {
+        "course_name": "MBA",
+        "duration": "2 years",
+        "semester_fee": "INR 1,51,000",
+        "total_fee": "INR 6.04 lakh",
+        "eligibility": "12th with minimum 66% or graduation with qualifying aptitude score",
+        "placement_rate": "90%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 1,08,000",
+        "total_fee": "INR 6.48 lakh",
+        "eligibility": "12th with minimum 58% from commerce or equivalent stream",
+        "placement_rate": "79%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Kabir",
+        "rating": "4.5",
+        "comment": "Case discussions and internships are useful for management placements."
+      },
+      {
+        "student": "Naina",
+        "rating": "4.2",
+        "comment": "The campus has a professional environment and good industry sessions."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Chitkara College of Pharmacy",
+    "city": "Rajpura",
+    "location": "Chitkara University campus",
+    "type": "Private Pharmacy College",
+    "rating": "4.5",
+    "student_review_score": "4.3",
+    "image": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.chitkara.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Chitkara%20College%20of%20Pharmacy%20Chitkara%20University%20campus%20Rajpura",
+    "description": "Chitkara College of Pharmacy serves students around Rajpura from its Chitkara University campus location. It supports pharmacy students through labs, industrial visits, regulatory awareness, and healthcare placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "80%",
+    "avg_package": "INR 5.7 LPA",
+    "highest_package": "INR 16 LPA",
+    "courses": [
+      {
+        "course_name": "B.Pharm",
+        "duration": "4 years",
+        "semester_fee": "INR 1,07,000",
+        "total_fee": "INR 8.56 lakh",
+        "eligibility": "12th with minimum 61% with Physics, Chemistry, and Biology or Mathematics",
+        "placement_rate": "82%"
+      },
+      {
+        "course_name": "D.Pharm",
+        "duration": "2 years",
+        "semester_fee": "INR 84,000",
+        "total_fee": "INR 3.36 lakh",
+        "eligibility": "12th with minimum 58% with Physics and Chemistry",
+        "placement_rate": "78%"
+      },
+      {
+        "course_name": "M.Pharm Pharmaceutics",
+        "duration": "2 years",
+        "semester_fee": "INR 1,16,000",
+        "total_fee": "INR 4.64 lakh",
+        "eligibility": "12th with minimum 66% or B.Pharm with qualifying score",
+        "placement_rate": "84%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ishita",
+        "rating": "4.4",
+        "comment": "Pharma labs are well structured and industrial visits help understand production roles."
+      },
+      {
+        "student": "Dev",
+        "rating": "4.1",
+        "comment": "Faculty pushes students toward GPAT preparation and internships."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Chitkara School of Health Sciences",
+    "city": "Rajpura",
+    "location": "Chitkara University campus",
+    "type": "Private Health Sciences School",
+    "rating": "4.3",
+    "student_review_score": "4.2",
+    "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.chitkara.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Chitkara%20School%20of%20Health%20Sciences%20Chitkara%20University%20campus%20Rajpura",
+    "description": "Chitkara School of Health Sciences serves students around Rajpura from its Chitkara University campus location. It is oriented toward clinical rotations, skill labs, patient care training, and healthcare employment readiness.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "78%",
+    "avg_package": "INR 5.2 LPA",
+    "highest_package": "INR 13 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Nursing",
+        "duration": "4 years",
+        "semester_fee": "INR 98,000",
+        "total_fee": "INR 7.84 lakh",
+        "eligibility": "12th with minimum 58% with Physics, Chemistry, Biology, and English",
+        "placement_rate": "81%"
+      },
+      {
+        "course_name": "GNM",
+        "duration": "3 years",
+        "semester_fee": "INR 80,000",
+        "total_fee": "INR 4.80 lakh",
+        "eligibility": "12th with minimum 55% with English and Science preferred",
+        "placement_rate": "77%"
+      },
+      {
+        "course_name": "Post Basic B.Sc Nursing",
+        "duration": "2 years",
+        "semester_fee": "INR 93,000",
+        "total_fee": "INR 3.72 lakh",
+        "eligibility": "12th with minimum 60% or GNM with registration",
+        "placement_rate": "80%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Rohan",
+        "rating": "4.3",
+        "comment": "Clinical rotations are regular and the hostel environment is manageable."
+      },
+      {
+        "student": "Ananya",
+        "rating": "4.0",
+        "comment": "Teachers are strict but supportive, especially during practical exams."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Chitkara School of Hospitality",
+    "city": "Rajpura",
+    "location": "Chitkara University campus",
+    "type": "Private Hospitality School",
+    "rating": "4.4",
+    "student_review_score": "4.3",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://www.chitkara.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Chitkara%20School%20of%20Hospitality%20Chitkara%20University%20campus%20Rajpura",
+    "description": "Chitkara School of Hospitality serves students around Rajpura from its Chitkara University campus location. It gives students structured hotel operations, events, service, culinary, and internship exposure.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "81%",
+    "avg_package": "INR 5.6 LPA",
+    "highest_package": "INR 14 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Hospitality and Hotel Administration",
+        "duration": "3 years",
+        "semester_fee": "INR 1,04,000",
+        "total_fee": "INR 6.24 lakh",
+        "eligibility": "12th with minimum 52% from any recognized board with English",
+        "placement_rate": "84%"
+      },
+      {
+        "course_name": "BBA Event and Hospitality Management",
+        "duration": "3 years",
+        "semester_fee": "INR 1,07,000",
+        "total_fee": "INR 6.42 lakh",
+        "eligibility": "12th with minimum 52% from any recognized board",
+        "placement_rate": "82%"
+      },
+      {
+        "course_name": "Diploma Bakery and Patisserie",
+        "duration": "1.5 years",
+        "semester_fee": "INR 82,000",
+        "total_fee": "INR 2.46 lakh",
+        "eligibility": "12th with minimum 47% from any recognized board",
+        "placement_rate": "78%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Simran",
+        "rating": "4.4",
+        "comment": "The training kitchens and guest-service simulations are useful before internships."
+      },
+      {
+        "student": "Karan",
+        "rating": "4.1",
+        "comment": "Campus life is polished and hospitality placements are well coordinated."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Aryans Group of Colleges",
+    "city": "Rajpura",
+    "location": "Nepra, Chandigarh-Patiala Highway",
+    "type": "Private Group of Colleges",
+    "rating": "4.0",
+    "student_review_score": "3.9",
+    "image": "https://images.unsplash.com/photo-1519452575417-564c1401ecc0?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://aryans.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Aryans%20Group%20of%20Colleges%20Nepra%2C%20Chandigarh-Patiala%20Highway%20Rajpura",
+    "description": "Aryans Group of Colleges serves students around Rajpura from its Nepra, Chandigarh-Patiala Highway location. It offers a broad mix of technical, business, and science pathways with active campus life and placement support.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "65%",
+    "avg_package": "INR 4.1 LPA",
+    "highest_package": "INR 12 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 84,000",
+        "total_fee": "INR 6.72 lakh",
+        "eligibility": "12th with minimum 52% with Physics and Mathematics",
+        "placement_rate": "69%"
+      },
+      {
+        "course_name": "BBA",
+        "duration": "3 years",
+        "semester_fee": "INR 53,000",
+        "total_fee": "INR 3.18 lakh",
+        "eligibility": "12th with minimum 48% from any recognized board",
+        "placement_rate": "60%"
+      },
+      {
+        "course_name": "B.Sc Computer Science",
+        "duration": "3 years",
+        "semester_fee": "INR 56,000",
+        "total_fee": "INR 3.36 lakh",
+        "eligibility": "12th with minimum 48% with Mathematics or Computer Science",
+        "placement_rate": "64%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Arjun",
+        "rating": "4.0",
+        "comment": "The campus has a good mix of technical, management, and science exposure."
+      },
+      {
+        "student": "Tanya",
+        "rating": "3.7",
+        "comment": "Placements are strongest for tech and business students who build projects early."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Aryans College of Engineering",
+    "city": "Rajpura",
+    "location": "Nepra, Chandigarh-Patiala Highway",
+    "type": "Private Engineering College",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://aryans.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Aryans%20College%20of%20Engineering%20Nepra%2C%20Chandigarh-Patiala%20Highway%20Rajpura",
+    "description": "Aryans College of Engineering serves students around Rajpura from its Nepra, Chandigarh-Patiala Highway location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "63%",
+    "avg_package": "INR 4.0 LPA",
+    "highest_package": "INR 11 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 82,000",
+        "total_fee": "INR 6.56 lakh",
+        "eligibility": "12th with minimum 50% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "68%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 73,000",
+        "total_fee": "INR 5.84 lakh",
+        "eligibility": "12th with minimum 48% with Physics and Mathematics",
+        "placement_rate": "64%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 64,000",
+        "total_fee": "INR 5.12 lakh",
+        "eligibility": "12th with minimum 48% with Physics and Mathematics",
+        "placement_rate": "59%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Naina",
+        "rating": "3.9",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Aarav",
+        "rating": "3.6",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Aryans College of Pharmacy",
+    "city": "Rajpura",
+    "location": "Nepra, Chandigarh-Patiala Highway",
+    "type": "Private Pharmacy College",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://aryans.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Aryans%20College%20of%20Pharmacy%20Nepra%2C%20Chandigarh-Patiala%20Highway%20Rajpura",
+    "description": "Aryans College of Pharmacy serves students around Rajpura from its Nepra, Chandigarh-Patiala Highway location. It supports pharmacy students through labs, industrial visits, regulatory awareness, and healthcare placement preparation.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "61%",
+    "avg_package": "INR 3.8 LPA",
+    "highest_package": "INR 9 LPA",
+    "courses": [
+      {
+        "course_name": "B.Pharm",
+        "duration": "4 years",
+        "semester_fee": "INR 69,000",
+        "total_fee": "INR 5.52 lakh",
+        "eligibility": "12th with minimum 51% with Physics, Chemistry, and Biology or Mathematics",
+        "placement_rate": "63%"
+      },
+      {
+        "course_name": "D.Pharm",
+        "duration": "2 years",
+        "semester_fee": "INR 46,000",
+        "total_fee": "INR 1.84 lakh",
+        "eligibility": "12th with minimum 48% with Physics and Chemistry",
+        "placement_rate": "59%"
+      },
+      {
+        "course_name": "M.Pharm Pharmaceutics",
+        "duration": "2 years",
+        "semester_fee": "INR 78,000",
+        "total_fee": "INR 3.12 lakh",
+        "eligibility": "12th with minimum 56% or B.Pharm with qualifying score",
+        "placement_rate": "65%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Dev",
+        "rating": "3.9",
+        "comment": "Pharma labs are well structured and industrial visits help understand production roles."
+      },
+      {
+        "student": "Mehak",
+        "rating": "3.6",
+        "comment": "Faculty pushes students toward GPAT preparation and internships."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Punjab Institute of Technology Rajpura",
+    "city": "Rajpura",
+    "location": "Rajpura",
+    "type": "Government Technical Institute",
+    "rating": "3.8",
+    "student_review_score": "3.7",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://mrsptu.ac.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Punjab%20Institute%20of%20Technology%20Rajpura%20Rajpura%20Rajpura",
+    "description": "Punjab Institute of Technology Rajpura serves students around Rajpura from its Rajpura location. It is known for project-led technical learning, coding practice, labs, and recruiter-focused placement preparation.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "58%",
+    "avg_package": "INR 3.6 LPA",
+    "highest_package": "INR 9 LPA",
+    "courses": [
+      {
+        "course_name": "B.Tech Computer Science Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 60,000",
+        "total_fee": "INR 4.80 lakh",
+        "eligibility": "12th with minimum 47% with Physics, Mathematics, and one technical subject",
+        "placement_rate": "63%"
+      },
+      {
+        "course_name": "B.Tech Electronics and Communication",
+        "duration": "4 years",
+        "semester_fee": "INR 51,000",
+        "total_fee": "INR 4.08 lakh",
+        "eligibility": "12th with minimum 45% with Physics and Mathematics",
+        "placement_rate": "59%"
+      },
+      {
+        "course_name": "B.Tech Mechanical Engineering",
+        "duration": "4 years",
+        "semester_fee": "INR 42,000",
+        "total_fee": "INR 3.36 lakh",
+        "eligibility": "12th with minimum 45% with Physics and Mathematics",
+        "placement_rate": "54%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Ananya",
+        "rating": "3.8",
+        "comment": "Strong coding clubs and regular hackathons helped us prepare for technical placements."
+      },
+      {
+        "student": "Kabir",
+        "rating": "3.5",
+        "comment": "Labs are practical and seniors share useful interview prep resources."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Patel Memorial National College Rajpura",
+    "city": "Rajpura",
+    "location": "Rajpura",
+    "type": "Private Aided College",
+    "rating": "3.8",
+    "student_review_score": "3.7",
+    "image": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://patelcollege.in/default.aspx",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Patel%20Memorial%20National%20College%20Rajpura%20Rajpura%20Rajpura",
+    "description": "Patel Memorial National College Rajpura serves students around Rajpura from its Rajpura location. It is a dependable option for arts, commerce, BCA, societies, value-conscious fees, and higher-study preparation.",
+    "hostel": false,
+    "transport": true,
+    "placement_rate": "50%",
+    "avg_package": "INR 3.0 LPA",
+    "highest_package": "INR 7 LPA",
+    "courses": [
+      {
+        "course_name": "B.A.",
+        "duration": "3 years",
+        "semester_fee": "INR 19,000",
+        "total_fee": "INR 1.14 lakh",
+        "eligibility": "12th with minimum 37% from any recognized board",
+        "placement_rate": "42%"
+      },
+      {
+        "course_name": "B.Com",
+        "duration": "3 years",
+        "semester_fee": "INR 26,000",
+        "total_fee": "INR 1.56 lakh",
+        "eligibility": "12th with minimum 42% from commerce or equivalent stream",
+        "placement_rate": "48%"
+      },
+      {
+        "course_name": "BCA",
+        "duration": "3 years",
+        "semester_fee": "INR 34,000",
+        "total_fee": "INR 2.04 lakh",
+        "eligibility": "12th with minimum 45% with Mathematics or Computer Science preferred",
+        "placement_rate": "53%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Karan",
+        "rating": "3.8",
+        "comment": "Faculty is approachable and societies make campus life active throughout the year."
+      },
+      {
+        "student": "Ishita",
+        "rating": "3.5",
+        "comment": "The fee structure is reasonable and commerce students get useful internship guidance."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Swift Group of Colleges",
+    "city": "Rajpura",
+    "location": "Ghaggar Sarai",
+    "type": "Private Group of Colleges",
+    "rating": "3.9",
+    "student_review_score": "3.8",
+    "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=82",
+    "website": "https://swiftcollege.edu.in/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Swift%20Group%20of%20Colleges%20Ghaggar%20Sarai%20Rajpura",
+    "description": "Swift Group of Colleges serves students around Rajpura from its Ghaggar Sarai location. It is oriented toward clinical rotations, skill labs, patient care training, and healthcare employment readiness.",
+    "hostel": true,
+    "transport": true,
+    "placement_rate": "64%",
+    "avg_package": "INR 4.0 LPA",
+    "highest_package": "INR 10 LPA",
+    "courses": [
+      {
+        "course_name": "B.Sc Nursing",
+        "duration": "4 years",
+        "semester_fee": "INR 82,000",
+        "total_fee": "INR 6.56 lakh",
+        "eligibility": "12th with minimum 53% with Physics, Chemistry, Biology, and English",
+        "placement_rate": "67%"
+      },
+      {
+        "course_name": "GNM",
+        "duration": "3 years",
+        "semester_fee": "INR 64,000",
+        "total_fee": "INR 3.84 lakh",
+        "eligibility": "12th with minimum 50% with English and Science preferred",
+        "placement_rate": "63%"
+      },
+      {
+        "course_name": "Post Basic B.Sc Nursing",
+        "duration": "2 years",
+        "semester_fee": "INR 77,000",
+        "total_fee": "INR 3.08 lakh",
+        "eligibility": "12th with minimum 55% or GNM with registration",
+        "placement_rate": "66%"
+      }
+    ],
+    "reviews": [
+      {
+        "student": "Tanya",
+        "rating": "3.9",
+        "comment": "Clinical rotations are regular and the hostel environment is manageable."
+      },
+      {
+        "student": "Rohan",
+        "rating": "3.6",
+        "comment": "Teachers are strict but supportive, especially during practical exams."
+      }
+    ]
+  }
+]
