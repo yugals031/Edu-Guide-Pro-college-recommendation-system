@@ -1,5 +1,12 @@
 const FALLBACK_IMAGE = "fallback.jpg";
 const STORAGE_PREFIX = "eduguide_reviews_";
+const STATE_ORDER = ["Haryana", "Punjab", "Himachal Pradesh", "Chandigarh"];
+const STATE_DISTRICTS = {
+  Haryana: ["Panchkula", "Kalka"],
+  Punjab: ["Rajpura", "Mohali", "Kharar"],
+  "Himachal Pradesh": ["Solan", "Baddi"],
+  Chandigarh: ["Chandigarh"]
+};
 
 let allColleges = [];
 let filteredColleges = [];
@@ -48,17 +55,18 @@ async function initExplorePage() {
 }
 
 function populateFilters(colleges) {
-  const cities = [...new Set(colleges.map((college) => college.city))].sort();
   const types = [...new Set(colleges.map((college) => college.type))].sort();
   const courses = [...new Set(colleges.flatMap((college) => college.courses.map((course) => course.course_name)))].sort();
 
-  fillSelect("#cityFilter", cities);
-  fillSelect("#typeFilter", types);
-  fillSelect("#courseFilter", courses);
+  fillSelect("#stateFilter", STATE_ORDER, "All states");
+  updateDistrictOptions(colleges, true);
+  fillSelect("#typeFilter", types, "All types");
+  fillSelect("#courseFilter", courses, "All courses");
 }
 
-function fillSelect(selector, values) {
+function fillSelect(selector, values, placeholder) {
   const select = document.querySelector(selector);
+  select.innerHTML = `<option value="">${placeholder}</option>`;
   values.forEach((value) => {
     const option = document.createElement("option");
     option.value = value;
@@ -67,17 +75,42 @@ function fillSelect(selector, values) {
   });
 }
 
+function updateDistrictOptions(colleges, resetSelection = false) {
+  const state = document.querySelector("#stateFilter").value;
+  const districtSelect = document.querySelector("#cityFilter");
+  const currentDistrict = districtSelect.value;
+  const requestedDistricts = state ? STATE_DISTRICTS[state] || [] : Object.values(STATE_DISTRICTS).flat();
+  const datasetDistricts = colleges
+    .filter((college) => !state || college.state === state)
+    .map((college) => college.city);
+  const districts = [...new Set([...requestedDistricts, ...datasetDistricts])].filter(Boolean);
+
+  fillSelect("#cityFilter", districts, "All districts");
+
+  if (!resetSelection && districts.includes(currentDistrict)) {
+    districtSelect.value = currentDistrict;
+  }
+}
+
 function bindExploreEvents() {
-  ["#searchInput", "#cityFilter", "#courseFilter", "#typeFilter", "#percentageInput"].forEach((selector) => {
+  document.querySelector("#stateFilter").addEventListener("input", () => {
+    updateDistrictOptions(allColleges, true);
+    applyFilters();
+  });
+
+  ["#searchInput", "#cityFilter", "#courseFilter", "#typeFilter", "#percentageInput", "#feeSort"].forEach((selector) => {
     document.querySelector(selector).addEventListener("input", applyFilters);
   });
 
   document.querySelector("#resetFilters").addEventListener("click", () => {
     document.querySelector("#searchInput").value = "";
+    document.querySelector("#stateFilter").value = "";
+    updateDistrictOptions(allColleges, true);
     document.querySelector("#cityFilter").value = "";
     document.querySelector("#courseFilter").value = "";
     document.querySelector("#typeFilter").value = "";
     document.querySelector("#percentageInput").value = "";
+    document.querySelector("#feeSort").value = "";
     applyFilters();
   });
 
@@ -90,14 +123,17 @@ function bindExploreEvents() {
 
 function applyFilters() {
   const search = document.querySelector("#searchInput").value.trim().toLowerCase();
-  const city = document.querySelector("#cityFilter").value;
+  const state = document.querySelector("#stateFilter").value;
+  const district = document.querySelector("#cityFilter").value;
   const type = document.querySelector("#typeFilter").value;
   const course = document.querySelector("#courseFilter").value;
   const percentage = parseFloat(document.querySelector("#percentageInput").value);
+  const feeSort = document.querySelector("#feeSort").value;
 
   filteredColleges = allColleges.filter((college) => {
     const textPool = [
       college.name,
+      college.state,
       college.city,
       college.location,
       college.type,
@@ -106,15 +142,17 @@ function applyFilters() {
     ].join(" ").toLowerCase();
 
     const matchesSearch = !search || textPool.includes(search);
-    const matchesCity = !city || college.city === city;
+    const matchesState = !state || college.state === state;
+    const matchesDistrict = !district || college.city === district;
     const matchesType = !type || college.type === type;
     const matchesCourse = !course || college.courses.some((item) => item.course_name === course);
     const matchesPercentage = Number.isNaN(percentage) || college.courses.some((item) => percentage >= getMinimumPercentage(item.eligibility));
 
-    return matchesSearch && matchesCity && matchesType && matchesCourse && matchesPercentage;
+    return matchesSearch && matchesState && matchesDistrict && matchesType && matchesCourse && matchesPercentage;
   });
 
   filteredColleges = sortRecommendations(filteredColleges, { course, percentage });
+  filteredColleges = sortByTuitionFee(filteredColleges, feeSort, course);
   renderCollegeGrid(filteredColleges);
 }
 
@@ -150,6 +188,58 @@ function getEligibilityScore(college, percentage, courseName) {
   }
 
   return Math.max(0, percentage - bestRequirement);
+}
+
+function sortByTuitionFee(colleges, direction, courseName) {
+  if (!direction) {
+    return colleges;
+  }
+
+  return colleges
+    .map((college, index) => ({
+      college,
+      index,
+      fee: getCollegeFee(college, courseName, direction)
+    }))
+    .sort((a, b) => {
+      const feeOrder = direction === "low-high" ? a.fee - b.fee : b.fee - a.fee;
+      return feeOrder || a.index - b.index;
+    })
+    .map((item) => item.college);
+}
+
+function getCollegeFee(college, courseName, direction) {
+  const courses = courseName ? college.courses.filter((course) => course.course_name === courseName) : college.courses;
+  const fees = courses
+    .map((course) => parseFeeValue(course.total_fee) ?? parseFeeValue(course.semester_fee))
+    .filter((fee) => Number.isFinite(fee));
+
+  if (!fees.length) {
+    return direction === "low-high" ? Number.POSITIVE_INFINITY : Number.NEGATIVE_INFINITY;
+  }
+
+  return direction === "low-high" ? Math.min(...fees) : Math.max(...fees);
+}
+
+function parseFeeValue(value) {
+  const text = String(value).toLowerCase();
+  const match = text.match(/[\d,.]+/);
+
+  if (!match) {
+    return null;
+  }
+
+  const amount = parseFloat(match[0].replaceAll(",", ""));
+
+  if (text.includes("crore")) {
+    return amount * 10000000;
+  }
+
+  if (text.includes("lakh")) {
+    return amount * 100000;
+  }
+
+  return amount;
 }
 
 function renderCollegeGrid(colleges) {
@@ -193,9 +283,12 @@ function updateResultCopy(colleges, topOnly = false) {
   const count = document.querySelector("#resultCount");
   const hint = document.querySelector("#resultHint");
   const percentageValue = document.querySelector("#percentageInput")?.value;
+  const feeSort = document.querySelector("#feeSort")?.value;
 
   count.textContent = `${colleges.length} ${topOnly ? "top matches" : "college recommendations"}`;
-  hint.textContent = percentageValue
+  hint.textContent = feeSort
+    ? `Sorted by tuition fee: ${feeSort === "low-high" ? "low to high" : "high to low"}.`
+    : percentageValue
     ? "Sorted by eligibility, placement rate, and rating."
     : "Enter 12th percentage to prioritize eligible colleges first.";
 }
